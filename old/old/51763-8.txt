@@ -1,6 +1,42 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 51763 ***
+Project Gutenberg's Noorsche Volksvertellingen, by Peter Christen Asbjørnsen
 
-                          P. CHR. ASBJÃ–RNSEN.
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Noorsche Volksvertellingen
+
+Author: Peter Christen Asbjørnsen
+
+Translator: T. Terwey
+
+Release Date: April 15, 2016 [EBook #51763]
+
+Language: Dutch
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NOORSCHE VOLKSVERTELLINGEN ***
+
+
+
+
+Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg (This file was produced from images generously
+made available by The Norwegian National Library.)
+
+
+
+
+
+
+
+
+                          P. CHR. ASBJÖRNSEN.
 
                       NOORSCHE VOLKSVERTELLINGEN.
 
@@ -38,7 +74,7 @@ INHOUD.
     Op de vogeljacht in Holleia                       173
     Eene tooverheks                                   196
     Ter zee.
-         I. De aalscholvers van UdrÃ¶st                210
+         I. De aalscholvers van Udröst                210
         II. De nikkers op het "Zand"                  217
 
 
@@ -54,7 +90,7 @@ de belangstelling gewekt wordt door den inhoud der sagen uit "het
 schemerdonker des volkslevens", staat men aan den anderen verrukt
 over "de warme teekening van land en volk", die den aantrekkelijken
 achtergrond der vertellingen uitmaakt. Zou dit dus reeds in staat zijn,
-de ingenomenheid te verklaren, waarmede AsbjÃ¶rnsen's arbeid bij zijne
+de ingenomenheid te verklaren, waarmede Asbjörnsen's arbeid bij zijne
 landgenooten werd ontvangen, de dienst, welken hij ook met dit product
 der Noorweegsche litteratuur bewees, wettigt die genegenheid te meer.
 
@@ -62,24 +98,24 @@ De letterkunde van dit volk werd zich hare roeping eerst volkomen
 bewust, toen zij zich aansloot bij het volk zelf; toen zij het
 leven en streven van dat volk zich ten onderwerp koos. Had zij tot
 nog toe aan den leiband harer Deensche zuster geloopen, zij leerde
-op eigen beenen staan, toen hare dichters en prozaÃ¯sten een oog
+op eigen beenen staan, toen hare dichters en prozaïsten een oog
 begonnen te krijgen voor de schatten, welke voor hunne kunst uit
 de natuur, de historie, het volksleven van hun eigen land konden
 gedolven worden. In wat het Noorsche volk zelf gedicht, gedacht
 en gedaan had, vond de litteratuur een' vasten gezonden bodem,
 waaruit zij als nationale kunst kon opwassen. Zoo oordeelden ook
 en daarnaar handelden twee mannen, die een' allerbelangrijksten
-invloed op de letteren van hun vaderland hebben uitgeoefend: JÃ¶rgen
-Moe en P. Chr. AsbjÃ¶rnsen. De eerste verzamelde de volksdeuntjes,
+invloed op de letteren van hun vaderland hebben uitgeoefend: Jörgen
+Moe en P. Chr. Asbjörnsen. De eerste verzamelde de volksdeuntjes,
 hier en ginds in omloop; te zamen gaven zij een aanzienlijk getal
 uitstekend vertelde--"Folke-eventyr"--volkssprookjes ten beste,
 en nadat Moe zich geheel aan zijn kerkelijk ambt--hij is "praest" te
-Drammen--en aan de geestelijke poÃ«zie had gewijd, schreef de houtvester
-AsbjÃ¶rnsen eene nieuwe verzameling Huldersprookjes en Volkssagen,
+Drammen--en aan de geestelijke poëzie had gewijd, schreef de houtvester
+Asbjörnsen eene nieuwe verzameling Huldersprookjes en Volkssagen,
 schoon op gansch anderen trant, dan toen hij gemeenschappelijk met
 Moe arbeidde. Terwijl toch de "Folke-eventyr" streng objectief zijn
 gehouden en zoo getrouw mogelijk weergeven, wat de vrienden uit den
-mond des volks hadden opgevangen, geeft AsbjÃ¶rnsen hier, terwijl hij
+mond des volks hadden opgevangen, geeft Asbjörnsen hier, terwijl hij
 zijne lezers deelgenoot maakt van de wijze, waarop hij aan de kennis
 zijner vertellingen is gekomen, eene schildering van natuur en volk,
 die, naar 't oordeel van een landgenoot, aan de dichterlijkste kleur
@@ -90,7 +126,7 @@ landgenooten zal deelen? Afgezien van het belang, dat de Noren als
 zoodanig in dit voortbrengsel hunner letteren moeten stellen, heeft
 de vertaler geen recht tot twijfel. Daar schuilt, meent hij, ook ten
 onzent genoeg belangstelling voor 't volksgeloof eener stamverwante
-natie; genoeg zin voor de poÃ«zie van natuur en volksleven, om eene
+natie; genoeg zin voor de poëzie van natuur en volksleven, om eene
 goede ontvangst dezer vertellingen te waarborgen.--Ge hebt Gerard
 Keller's Zomer in het Noorden gelezen en genoten? Welnu, hier wordt
 u stoffe geboden ter aanvulling uwer kennis door iemand, wiens lust
@@ -107,7 +143,7 @@ vertelling te doen volgen door eenige opmerkingen, die duidelijk in
 't licht stelden, hoe groot de verwantschap is geweest of nog is
 tusschen 't volksgeloof der Noren en Nederlanders. Maar hij heeft
 begrepen, dat de identiteit op dit punt, behoudens karakteristieke
-verschillen, tusschen de Germanen en SkandinaviÃ«rs door Grimm in
+verschillen, tusschen de Germanen en Skandinaviërs door Grimm in
 zijne Deutsche Mythologie te klaar is bewezen, dan dat men dit feit
 nog als iets nieuws behoefde mede te deelen. En vervolgens duchtte hij
 niet zonder reden, dat eene uitvoerige aanwijzing der verschijnselen,
@@ -117,15 +153,15 @@ den bescheiden vorm, waaronder dit boekje optreedt.
 De lezer, die in dit onderwerp belang stelt, zal bij Grimm, bij
 Simrock in zijn "Handbuch der Deutschen Mythologie", bij Van den
 Bergh in zijne "Volksoverleveringen", maar vooral in zijn "Kritisch
-Woordenboek der Ned. Mythologie", of uit J. W. Wolf's "NiederlÃ¤ndische
+Woordenboek der Ned. Mythologie", of uit J. W. Wolf's "Niederländische
 Sagen" kunnen zien, welke treffende familietrekken de overleveringen
 van beide volken vertoonen. Er is bijna geen enkele trek in de
-vertellingen van AsbjÃ¶rnsen, die men niet hier of daar in Nederland
+vertellingen van Asbjörnsen, die men niet hier of daar in Nederland
 terugvindt. Zelfs Holda--de vriendelijke--wier naam ons van de lippen
 glijdt, wanneer wij "hou en trou" zweren aan onzen vriend of onze
 "hulde" brengen aan de min, heeft ook ten onzent hare vereerders
 gehad; al belette haar karakter van berg- en woudgeest natuurlijk,
-dat zij in onze overleveringen eene rol zou spelen, zÃ³Ã³ belangrijk,
+dat zij in onze overleveringen eene rol zou spelen, zóó belangrijk,
 als zij met hare volgelingen, de Huldren, in de Noorsche volkssprookjes
 vervult. Schuilt er in onzen bodem geen schat van metalen, die in
 't Noorden de volksfantazie kon doen ontvlammen, toch wist men ook
@@ -166,7 +202,7 @@ dat dit te zelden gebeurt,--heb ik er mij steeds wel bij bevonden,
 een zwerftochtje te ondernemen tot verlichting van mijn vrachtje
 bekommernis en tegenspoed. Wat mij op zekeren tijd in den weg stond,
 herinner ik me niet meer; maar 't staat me nog duidelijk voor den
-geest, hoe ik voor eenige jaren, op een' zomermiddag met de hengelroÃª
+geest, hoe ik voor eenige jaren, op een' zomermiddag met de hengelroê
 in de hand, over de velden zwierf langs den oostelijken oever van
 den Akerself.
 
@@ -218,7 +254,7 @@ slechts de vleermuizen, die snorrend rondfladderden, brachten nu en
 dan, wanneer zij op insecten neerschoten, trillende kringen op de
 blanke vlakte te voorschijn.
 
-VÃ³Ã³r mij lag de molen, van binnen duidelijk zichtbaar door 't
+Vóór mij lag de molen, van binnen duidelijk zichtbaar door 't
 vlammend haardvuur. Hij was in vollen gang; toch scheen het, of
 't rad met zijne schoepen en staken niet door den wil of de hand van
 een' mensch werd bestuurd en geleid, maar of 't ten speelbal strekte
@@ -282,7 +318,7 @@ zeide hij.
 
 "Wie ben je, waar kom-je van daan?" vroeg de oude man.
 
-"Ik kom van Gamleby, en ik ben te BrÃ¦kke geweest met een' brief voor
+"Ik kom van Gamleby, en ik ben te Brække geweest met een' brief voor
 den schout; maar ik ben zoo bang in donker alleen te gaan," antwoordde
 de knaap, die zich den heelen tijd dicht in mijne nabijheid hield.
 
@@ -298,7 +334,7 @@ en been dringt en des nachts, boven 't bruisen van den waterval uit,
 niet zelden tot in de naaste stad weerklinkt. 't Scheen, dat dit
 geraas de zenuwen van den knaap nog onaangenamer aandeed.
 
-"HÃ¨, 'k zou voor nog zoo veel hier geen nacht willen doorbrengen,"
+"Hè, 'k zou voor nog zoo veel hier geen nacht willen doorbrengen,"
 zeide hij en staarde om zich heen, of hij aanstonds uit elken hoek
 van den molen een' nikker zou zien oprijzen.
 
@@ -343,7 +379,7 @@ beweging, maar spoedig stond hij stil, zooals te verwachten was. De
 molenaar stak en sloeg naar den geest in de goot en rondom den balk,
 maar te vergeefs. Eindelijk opende hij de deur, die naar de goot en
 den wielbalk leidde, en daar stond de molengeest midden in de deur en
-gaapte hem aan met een' mond, zÃ³Ã³ wijd, dat de onderkaak den drempel
+gaapte hem aan met een' mond, zóó wijd, dat de onderkaak den drempel
 aanraakte en de bovenkaak aan den zolder reikte.
 
 "Hebt gij ooit zulk gapen gezien?" zei de geest.
@@ -422,7 +458,7 @@ om er van te ijzen zoo leelijk. 't Duurde niet lang, of zij zetten
 een ijzeren pot op den haard en legden vuur aan, zoodat 't in den pot
 begon te bruisen en te borrelen, alsof hij vol kokende teer en pek was.
 
-"Ha, ha," dacht de snijder, "zal dat zÃ³Ã³ gaan?" en nauwelijks had
+"Ha, ha," dacht de snijder, "zal dat zóó gaan?" en nauwelijks had
 hij dit bij zich zelven gezegd, of een der katten schoot op den pot
 toe en trachtte dien om te werpen.
 
@@ -463,14 +499,14 @@ de hoeve.
 Toen hij 't woonvertrek binnentrad, lagen man en vrouw nog te bed,
 want 't was pinkstermorgen.
 
-"GoÃª morgen," zei de kleermaker en gaf den man de hand.
+"Goê morgen," zei de kleermaker en gaf den man de hand.
 
-"GoÃª morgen," zei de man en hij was blij en verbaasd, toen hij den
+"Goê morgen," zei de man en hij was blij en verbaasd, toen hij den
 snijder weer zag, dat kan men begrijpen.
 
-"GoÃª morgen, moeder," zei de kleermaker en reikte de vrouw de hand,
+"Goê morgen, moeder," zei de kleermaker en reikte de vrouw de hand,
 
-"GoÃª morgen," zei de vrouw; maar zij zag er bleek en verward en
+"Goê morgen," zei de vrouw; maar zij zag er bleek en verward en
 verschrikt uit, en hare handen verborg zij onder de dekens;--eindelijk
 toch reikte zij hem de linker. Toen begreep de kleermaker, hoe alles
 samenhing, maar wat hij den man zeide en hoe 't sedert de vrouw
@@ -551,7 +587,7 @@ marschland der pastorie, dronken eene afscheidsteug met onze vrienden
 en verkwikten ons aan 't gezicht der blanke vlakte van 't Oiermeer,
 dat wij tusschen de toppen der sparren zagen schemeren.
 
-De jongens waren al spoedig op 't moerasveld om braambeziÃ«n te zoeken
+De jongens waren al spoedig op 't moerasveld om braambeziën te zoeken
 en jubelden, telkens als zij een roodachtig plekje zagen. De juffer
 en ik volgden hen. Omkranst met sparren- en dennenhout strekte 't
 moeras zich een kwartmijl ver naar 't westen uit; de eentonigheid
@@ -564,10 +600,10 @@ af te leggen. Aan den zoom der vlakte stond het bloeiende heidekruid,
 maar ginder wenkten ons de prachtige gouden bekers der moslelie,
 de gebaarde bloem der bitterklaver en de sierlijke kalla.
 
-Getooid met wuivende rietpluimen, braambeziÃ«nbloemen en fijn gras,
+Getooid met wuivende rietpluimen, braambeziënbloemen en fijn gras,
 prijkte 't mostapijt met duizend schakeeringen en rees en daalde onder
 onze voeten, of 't op de golven der zee rustte. Ook wij dwaalden een
-oogenblik van den rechten weg af om braambeziÃ«n te plukken. Toen wij
+oogenblik van den rechten weg af om braambeziën te plukken. Toen wij
 terugkeerden naar den top van een' der met sparren bewassen heuvels,
 zwaaide 't kolfriet zijne groote golvende stengels boven onze hoofden
 heen en weer; een snijdende wind blies ons in 't gelaat, en vlak boven
@@ -643,7 +679,7 @@ komen op het erf rondom de hut. Hij hoorde bellen klinken, runderen
 loeien, zwijnen knorren, en daar was een gepraat, een geroep, een
 sturen en stellen, precies als wanneer men in 't voorjaar met 't vee
 naar de hut komt. Allengs werd het stiller, en een oogenblik later
-kwamen er twee vrouwen binnen. De jongste van haar was zÃ³Ã³ schoon,
+kwamen er twee vrouwen binnen. De jongste van haar was zóó schoon,
 dat men haarsgelijke onmogelijk zou vinden. Zij gingen aan 't redderen
 en ordenen en begonnen vervolgens melkpap te koken. Inmiddels hield
 de jongeling zich of hij sliep. De Huldren sloegen in den beginne
@@ -698,7 +734,7 @@ zoo zwaar, dat geen paard in staat is hem voort te sleepen."
 Toch bleef zij aanhouden; maar toen de man stellig bleef weigeren,
 nam zij de bijl, ging naar 't bosch, hieuw den denneboom om, nam
 hem op den schouder en bracht hem naar huis. Toen haar man dat zag,
-verschrok hij zÃ³Ã³, dat hij sedert haar nimmer dorst tegenspreken,
+verschrok hij zóó, dat hij sedert haar nimmer dorst tegenspreken,
 of iets anders doen dan zij wenschte, en van dien tijd af waren zij
 de eensgezindheid zelf.
 
@@ -723,7 +759,7 @@ tuinkoninkjes zongen om strijd mee en verheugden zich in hun geluk;
 slechts een eenzaam roodborstje zat klagend in 't dichtste loover.
 
 Terwijl wij door 't bosch gaande de berghelling afdaalden, lag
-Opper-Romerike vÃ³Ã³r ons in den zonneschijn; boven de westelijke
+Opper-Romerike vóór ons in den zonneschijn; boven de westelijke
 heuveltoppen hing nog de regen als een grauwe sluier, maar naar
 't noorden was de lucht helder als een spiegel. De Mistberg, de
 lieveling dezer streek, hief zijn' ronden top als een azuren koepeldak
@@ -775,14 +811,14 @@ kort; een uitstapje naar Nordmarken, om daar te visschen, was al wat
 ik me mocht veroorloven. De toebereidselen waren spoedig gemaakt;
 aas en vischtuig waren in orde, en na eene wandeling van weinige
 uren was ik den Hammer voorbij, ging langs eene berghelling naar
-Kamphaugen en van deze hoeve verder naar de BjÃ¶rnsjÃ¶-rivier. In de
+Kamphaugen en van deze hoeve verder naar de Björnsjö-rivier. In de
 diepte glinsterde de baai nu en dan tusschen de stammen der boomen
 en de open plekken van 't bosch. De vogels zongen uit volle borst en
 't werd me zoo vroolijk en vrij, nu 'k weer ademen mocht in den zoeten
 woudgeur. 't Gedruisch van den waterval riep mij tot zich en spoedig
 was ik aan den mond der rivier. Hier stroomde zij helder, maar steil,
 over den kiezelgrond; uit eene woeste kloof, die van haar' uitloop uit
-het BjÃ¶rnmeer af eene kwartmijl lang hare diepe bedding vormt, ijlt ze
+het Björnmeer af eene kwartmijl lang hare diepe bedding vormt, ijlt ze
 als in gevleugelde vaart in de armen der baai. Zoolang de rotswanden
 en torenhooge steenklompen haar beklemmen, tuimelt zij met pijlsnelle
 drift in den donkeren afgrond neer. Nu eens vormt zij een' bruisenden
@@ -793,7 +829,7 @@ golven voort. Maar slechts een ommezien rust zij uit, om met frissche
 krachten het dartel spel weer aan te vangen. En toch beteekent al haar
 gedruisch en gebruis in dezen tijd des jaars luttel bij 't geen zij in
 't najaar te zien en te hooren geeft. Wanneer de dam wordt geopend;
-wanneer de schuimende wateren van 't BjÃ¶rnmeer worden losgelaten en
+wanneer de schuimende wateren van 't Björnmeer worden losgelaten en
 het gevelde hout met den stroom wordt meegevoerd, dan overtreft haar
 koken en bruisen elke voorstelling; het gedreun van hare watervallen
 is als 't ratelen van den donder; boomen en rotsblokken sleurt zij
@@ -823,7 +859,7 @@ aangegrepen. En kent hij niet elken steen en elken struik, dan bevindt
 hij zich spoedig in den wanhopigen toestand, dat hij op noch neer kan;
 "dat hij in den berg is geraakt," zooals 't bij de jagers heet.
 
-Ik sprong van den eenen steen op den anderen, terwijl de hengelroÃª
+Ik sprong van den eenen steen op den anderen, terwijl de hengelroê
 mij tot staf en balanceerstok diende; ik waadde en klauterde en was
 recht vroolijk. In de heldere wielingen en onder de glasgroene golven,
 welke de rivier vormde op die plaatsen, waar zij met mindere woestheid
@@ -833,7 +869,7 @@ weder, snapten 't aas onder 't water weg, deden 't snoer suizend van
 de roede glijden en sleepten 't mee naar het diep, waaruit ze echter
 spoedig naar boven getrokken en op het droge gebracht werden.
 
-Toen ik uit de kloof trad, waar de rivier uit het BjÃ¶rnmeer ontspringt,
+Toen ik uit de kloof trad, waar de rivier uit het Björnmeer ontspringt,
 verwijlde ik een oogenblik op den dam. De zon neeg ter kim en haar
 licht speelde tusschen de boomtoppen, terwijl 't donkerblauw des
 hemels, de gloeiende avondwolkjes en de sombere dennen, die 't meer
@@ -865,10 +901,10 @@ en in de groote bosschen, die zich van hier en den Holtsfjord tot
 
 Maar de oude Elias is niet altijd visscher geweest. In zijne jeugd
 was hij een kloek zeeman, die evenmin een' storm als 't donderen
-der kartouwen vreesde. Hij lag voor GÃ¶teborg in 1788; hij was
-bootsmansmaat op de PrÃ¶vest, den 2den April 1801. Hij heeft de geuren
+der kartouwen vreesde. Hij lag voor Göteborg in 1788; hij was
+bootsmansmaat op de Prövest, den 2den April 1801. Hij heeft de geuren
 der oranjeboschjes aan de kusten der Middellandsche zee ingeademd
-en de palmboomen van IndiÃ« aanschouwd. In Nordmarken heet hij Elias,
+en de palmboomen van Indië aanschouwd. In Nordmarken heet hij Elias,
 de visscher, of Elias, de Zweed, naar' zijn eersten tocht. Nu is hij
 gebrekkig en wordt grootendeels onderhouden uit de armenkas. Maar de
 breede schouders en de krachtige armen tuigen nog van zijn verleden,
@@ -878,27 +914,27 @@ en zijne vischtochten in Nordmarken, dan komt er leven in die oogen,
 dan spant zich elke spier van dat ingevallen en behaard gelaat. Oud
 en jong luistert gaarne naar zijne vertellingen en Elias is overal
 een welkome gast, zelfs bij die kleinzielige schepselen, die hem zijn
-geluk bij 't visschen misgunnen. Want vÃ³Ã³r alles is hij met hart en
+geluk bij 't visschen misgunnen. Want vóór alles is hij met hart en
 ziel visscher, en zijne ervaring, zijne veeljarige kennis van de
 gewoonten en levenswijze der visschen in deze rivieren en wateren
 maken, dat zijne pogingen in den regel met een zeldzaam geluk worden
 bekroond. In den besten vischtijd ziet men Elias, den visscher,
 zelfs nu nog, in zijn vier-en-tachtigste jaar, iedere week met eene
-reusachtige mand vol visch op den rug naar de stad gaan. Maar Ã©Ã©n
+reusachtige mand vol visch op den rug naar de stad gaan. Maar één
 zwak heeft hij; al te vaak tracht hij de klove tusschen 't voorheen en
 thans te doen verdwijnen onder de wateren der Noorsche Lethe. Wanneer
 hij van de stad terugkeert, zijn zijne schreden wankelend en is zijn
 hoofd zwaar, en schoon zijne woning niet ver is--de kleine hut op een'
-heuvel ter linkerzijde van den weg, even voor men aan de SkjÃ¦rvenbrug
+heuvel ter linkerzijde van den weg, even voor men aan de Skjærvenbrug
 in 't Mariadal komt--gebeurt het maar al te dikwijls, dat hij aan
 den kant van den weg zijne slaapstee vindt.
 
 "Welkom, mannen!" zei ik.
 
-"GoÃªn avond," was 't bescheid van beiden, terwijl zij op de hengelroÃª
+"Goên avond," was 't bescheid van beiden, terwijl zij op de hengelroê
 leunden.
 
-"GoÃªn avond, Elias; moeten we elkaar al weer hier vinden?"
+"Goên avond, Elias; moeten we elkaar al weer hier vinden?"
 
 "Ja, 't gaat met mij als met eene donderwolk," zeide Elias, "men
 vindt mij altijd, waar ik 't minst verwacht word."
@@ -923,7 +959,7 @@ en die ook... drommels, 't zijn mooie visschen," zei Elias.
 "Vischt hij met vliegen?" vroeg de ander.
 
 "Jij raadt het," zei Elias, terwijl hij te vergeefs een paar malen
-zijne hengelroÃª uitwierp: "jij raadt het; ik heb naast hem gestaan
+zijne hengelroê uitwierp: "jij raadt het; ik heb naast hem gestaan
 aan de Hakklo en kreeg niet eens tuk, terwijl hij met een half pond
 ging strijken, en dat schielijk ook."
 
@@ -938,7 +974,7 @@ bliksemde in de verte; de donkere wolkenmassa's breidden zich steeds
 verder uit, hare omtrekken werden telkens minder scherp, en eindelijk
 hingen de regenwolken als een grijs gordijn boven de bergen.
 
-VÃ³Ã³r onweer en regen uit streek een frissche wind over 't water. Nu was
+Vóór onweer en regen uit streek een frissche wind over 't water. Nu was
 't de rechte tijd om te visschen. Enkele groote visschen hapten toe
 en werden nu en dan gevangen, maar meestal schoten ze 't aas voorbij.
 
@@ -981,7 +1017,7 @@ zijn kort pijpje aanstak, "maar 't gaf ook niet zoo'n gesukkel met
 balken uit den dam, zoodat de visch in de rivier kon komen. Ja, ja,
 bij den dam was 't in dien tijd eene beste plaats om te visschen, want
 hij stond toen voorbij de twee bergen en de diepe geul, waar ge weet,
-dat hij nu staat. Ik ving daar op Ã©Ã©n' nacht acht pond, en daar was er
+dat hij nu staat. Ik ving daar op één' nacht acht pond, en daar was er
 geen onder, die minder dan drie marken woog. Maar nu weten de visschen
 niet meer hoe ze 't hebben; nooit kunnen zij vrij hun gang gaan."
 
@@ -989,9 +1025,9 @@ niet meer hoe ze 't hebben; nooit kunnen zij vrij hun gang gaan."
 zeide ik, "maar 't gebeurde toch ook weleens, dat gij slib vingt?"
 
 "Maar zelden, dat ik niets ving; iets kreeg ik altijd," antwoordde
-hij. "'t Is waar, Ã©Ã©nmaal was ik bijna platzak thuis gekomen, maar toch
+hij. "'t Is waar, éénmaal was ik bijna platzak thuis gekomen, maar toch
 liep 't nog goed af. Dit ging zoo verwonderlijk toe, dat ik er nooit
-iets van heb begrepen. ZÃ³Ã³ ben ik nooit weer uit visschen geweest."
+iets van heb begrepen. Zóó ben ik nooit weer uit visschen geweest."
 
 "Wat gebeurde er dan?" vroeg ik.
 
@@ -1001,14 +1037,14 @@ niets beters doen."
 "Dat geloof ik ook," zei Elias.
 
 "'t Was in 1806. Ik lag destijds in Christiania, maar de orders
-waren zoo streng, dat geen matroos langer dan Ã©Ã©n' dag verlof kon
+waren zoo streng, dat geen matroos langer dan één' dag verlof kon
 krijgen en niet verder mocht gaan dan eene halve mijl van de stad,
 of hij moest het kapitein Larsen melden. Ik zette mij in 't hoofd
 in Nordmarken te gaan visschen, ik meldde mij aan en sneed uit met
 wat teerkost in den eenen en eene flesch brandewijn in den anderen
-zak. 't Ging slecht. In de BjÃ¶rnsjÃ¶-rivier kreeg ik geen enkele maal
+zak. 't Ging slecht. In de Björnsjö-rivier kreeg ik geen enkele maal
 tuk. Toen ik bij den dam kwam, lag daar eene boot; ik roeide er mee
-naar SmalstrÃ¶m, maar ook daar was geen enkele visch te zien. Zoo toog
+naar Smalström, maar ook daar was geen enkele visch te zien. Zoo toog
 'k noordwaarts naar de Hakklo.
 
 "Onderweg ontmoette ik Per Piber, een van de beste visschers hier
@@ -1079,7 +1115,7 @@ komen,--maar op eens brak hij zijne vertelling af met den uitroep:
 
 "In Jezus' naam, wat is dat voor licht daar ginds? Dat ziet blauw!"
 
-Elias meende, dat het niet ver van den SmalstrÃ¶m was. Mij scheen
+Elias meende, dat het niet ver van den Smalström was. Mij scheen
 't licht meer rood dan blauw, en ik vermoedde, zooals later ook
 bleek, dat een paar visschers zich daar hadden gelegerd en een vuur
 aangelegd. 't Gesprek kwam naar aanleiding hiervan op schatten en
@@ -1092,7 +1128,7 @@ ontsponnen zich verschillende vertellingen, die ik zoo goed mogelijk
 wil trachten weer te geven.
 
 Zijn grootvader dan, vertelde Elias, bracht hout van Nordmarken
-naar 't SÃ¶rkedal. 't Liep reeds naar den zomer, zoodat sneeuw en
+naar 't Sörkedal. 't Liep reeds naar den zomer, zoodat sneeuw en
 ijzel verdwenen waren. Hij had zijn dochtertje bij zich. Toen zij
 tusschen Vindern-Saeter en Blankvandsveld gekomen waren, gleed 't
 kind uit. "Kijk, vader, daar ligt nog ijzel," zei ze. Hij keek waar
@@ -1105,7 +1141,7 @@ oogenblik af reed hij dikwijls naar de stad en bracht dan telkens
 veel geld mee.
 
 Maar als hij daarheen ging, koos hij noch 't pad voorbij
-Maridalshammer, noch door 't SÃ¶rkedal; hij ging zijn' eigen weg,
+Maridalshammer, noch door 't Sörkedal; hij ging zijn' eigen weg,
 dwars door bosch en veld en over de bergen heen. Eens was hij weer
 in de stad en had een beetje te veel gedronken;--'t was in de oude
 hoeve van Ramstad bij Graensen--daar zat hij op te snijden!
@@ -1113,7 +1149,7 @@ hoeve van Ramstad bij Graensen--daar zat hij op te snijden!
 "Als ik maar wou, kon ik mijne paarden wel met zilver beslaan,"
 zei hij.
 
-Daar zaten veel luiden en sommigen schreven die woorden op. Maar vÃ³Ã³r
+Daar zaten veel luiden en sommigen schreven die woorden op. Maar vóór
 bestevaar thuis kwam, was hij dood en sedert dien tijd heeft niemand
 een spoor van zilver gezien, schoon men in 't omliggende veld druk
 ging spitten en graven.
@@ -1143,13 +1179,13 @@ er, snel als de wind, een wagen voorbijrijden met zes zwarte paarden
 bespannen. Een eind achter den wagen aan voer een oud wijf in een'
 trog; haar mond ging op en neer als een ratel. "Ik neem ze toch mee,
 ik neem ze toch mee, ik neem ze toch mee!" riep ze onophoudelijk en
-reed voort. "Ja, naar de hel neem-je ze meÃª," zei grootvader, maar
+reed voort. "Ja, naar de hel neem-je ze meê," zei grootvader, maar
 op eens was 't wijf verdwenen en de ketel met geld weggezonken.
 
 "Een andermaal zal ik zwijgen," dacht grootvader, en 't duurde niet
 lang, of hij was al weer bezig. Ditmaal was er een oud wijf, dat
 een' grooten koperen ketel vol geld had gezien, terwijl zij over
-'t veld ging bij Greffen in 't kerspel van Akers. Drie dagen vÃ³Ã³r
+'t veld ging bij Greffen in 't kerspel van Akers. Drie dagen vóór
 Sint Jan ligt het geld bloot, moet ge weten, maar hij dorst er niet
 aankomen, omdat eene groote slang zich boven in den ketel heen en weer
 kronkelde. Nu waren er twee kerels uit Christiania: de een was een
@@ -1173,7 +1209,7 @@ groef den ganschen avond en den volgenden donderdag ook; niemand dorst
 hem ergens naar vragen, zoo ontzettend barsch keek hij elkeen aan. Maar
 den derden donderdag, te middernacht, schoot er een razende stier
 uit de groeve, met lange horens, waarmee 't dier hem scheen te willen
-doorboren. Hij greep den stier bij de horens, en zÃ³Ã³ bleef hij staan,
+doorboren. Hij greep den stier bij de horens, en zóó bleef hij staan,
 tot de zon onderging. Toen was de stier in een' grooten ketel vol geld
 veranderd, en de horens, die hij in de hand hield, waren de hengsels."
 
@@ -1188,7 +1224,7 @@ vermoeden, dat ge elke week naar stad behoefdet te gaan om visch te
 verkoopen," merkte ik op.
 
 "Wat dat betreft," antwoordde Elias, "God moge mij zoo zeker genadig
-zijn, als mijn vader niets anders ten erf kreeg dan armoÃª: 't zij,
+zijn, als mijn vader niets anders ten erf kreeg dan armoê: 't zij,
 dat mijn grootvader alles had doorgebracht wat hij had gevonden, 't
 zij, dat hem alles weer was ontnomen door degenen, die 't hem hadden
 gegeven. En mijne heele erfenis bestond uit eene linnen buis en een'
@@ -1261,7 +1297,7 @@ hij meesterknecht op den molen in Vasdraget Vaela, aan 't eind van
 
 Vaak zwierf hij rond in 't gebergte om te visschen, en zoo bevond
 hij zich op zekeren avond bij 't Buttenmeertje aan den voet van
-den HofsÃ¦terberg tusschen 't bosch van Marigaard en Bergermoen. Daar
+den Hofsæterberg tusschen 't bosch van Marigaard en Bergermoen. Daar
 maakte hij zich eene legerstee, legde zich neder en sliep den ganschen
 nacht. Anderhalf jaar later was hij daar weer om te visschen. 's Nachts
 kwam er een vrouwelijk wezen tot hem met een klein kind op den arm.
@@ -1325,7 +1361,7 @@ onze man, dat hij met een' aardgeest te doen had, maar 't vervaardde
 hem niet, hij verzocht den buurman binnen te komen en eene kroes bier
 met hem te drinken, en deze liet zich 't brouwsel wel smaken.
 
-"Hoor eens," sprak de buurman, "in Ã©Ã©n ding moest gij mijn' zin doen."
+"Hoor eens," sprak de buurman, "in één ding moest gij mijn' zin doen."
 
 "Laat mij eerst hooren, wat gij wenscht," zei de boer.
 
@@ -1345,7 +1381,7 @@ te dwaas, en waar zou hij hulp vandaan krijgen?
 Een dag of wat later stond hij in den koestal en--daar zonk hij op eens
 door den vloer in de diepte. Op de plaats, waar hij terecht kwam, zag
 't er wondermooi uit. Alles was van goud en zilver. Eensklaps stond
-de man, die zich zijn' buurman had genoemd, vÃ³Ã³r hem en verzocht hem
+de man, die zich zijn' buurman had genoemd, vóór hem en verzocht hem
 te gaan zitten. Weldra werden er spijzen in zilveren vaten en bier
 in zilveren kroezen binnen gebracht en de boer werd uitgenoodigd
 toe te tasten. Hij dorst natuurlijk niet weigeren en zette zich aan
@@ -1388,7 +1424,7 @@ de dageraad over de bergen aanbrak, voeren we reeds rond op 't
 meer. Want de Hadelander, die de onzekere kans op eene voordeelige
 vangst had opgegeven, om mij behulpzaam te zijn en korf en vischtuig
 voor mij te dragen, had den ouden Christiaan Hakklo met zijne boot
-gehaald. Wij roeiden over 't BjÃ¶rnmeer en ik vischte in den SmalstrÃ¶m
+gehaald. Wij roeiden over 't Björnmeer en ik vischte in den Smalström
 en de Hakklo. 't Weer was ons gunstig, want zonneschijn en regen
 wisselden elkander af. Eerst laat in den avond kwam ik in de stad
 terug met de vischkorf vol forellen en 't hoofd vol histories.
@@ -1407,7 +1443,7 @@ naar den Egeberg te gaan. De heele week verlangden we met ongeduld
 naar dien achtermiddag, den eenigen, dien we in de open lucht konden
 doorbrengen; naar de geurige hagedoorntakken, die we zouden afbreken;
 naar de wilgen fluitjes, die wij zouden maken; naar de blinkende
-bergkristallen, die wij zouden vinden, en de zoete aardbeziÃ«n, die
+bergkristallen, die wij zouden vinden, en de zoete aardbeziën, die
 wij zouden plukken. Toen wij ouder werden, lieten we wel de wilgen
 vredig staan en ontroofden den heggen haar sieraad niet meer; maar nu
 en dan herhaalden we toch onze uitstapjes, en op de velden van den
@@ -1446,7 +1482,7 @@ vrouw, die boodschappen deed voor de menschen en moeite had op die
 wijze door de wereld te komen. Eens, toen zij water had gehaald,
 zat er eene groote, dikke padde op den weg, dien zij langs kwam.
 
-"Ga uit den weg voor mij, dan zal ik vroÃªmoer zijn, als je in 't
+"Ga uit den weg voor mij, dan zal ik vroêmoer zijn, als je in 't
 kinderbed ligt," zei ze schertsend tot de padde, en--oogenblikkelijk
 kroop 't dier heen, zoo spoedig 't maar kon.
 
@@ -1464,10 +1500,10 @@ niets van."
 "Ja, ge kunt het wel; want gij hebt 't haar beloofd," zei de man.
 
 De best kon zich maar niet herinneren, dat zij aan iemand ter wereld
-beloofd had, vroÃªmoer te zijn; dat verzekerde zij hem, maar de
+beloofd had, vroêmoer te zijn; dat verzekerde zij hem, maar de
 man hernam:
 
-"Beloofd hebt gij 't, want de padde, die vÃ³Ã³r u op den weg zat,
+"Beloofd hebt gij 't, want de padde, die vóór u op den weg zat,
 toen ge om water uitwaart, was mijne vrouw. Wilt ge haar helpen,"
 vervolgde de man, die zij nu begreep, dat niemand anders was dan de
 koning van den Egeberg, "dan zal 't u niet rouwen; ik zal u goed
@@ -1488,12 +1524,12 @@ zag er zeer voornaam uit, 't leek wel de groote zaal van een kasteel,
 en nooit in haar leven had de oude zooveel pracht gezien.
 
 Maar toen zij goed en wel binnen waren, zette de man zich op een'
-stoel en kneep de handen samen over de knieÃ«n, en wanneer een man
+stoel en kneep de handen samen over de knieën, en wanneer een man
 zoo gaat zitten, kan eene vrouw onmogelijk verlost worden; dat wist
 de oude zeer goed. Daarom beproefden zoowel zij als de koningin hem
 tot opstaan te bewegen; telkens verzochten zij hem, nu dit, dan dat
 te gaan halen; maar waar hij zat, daar zat hij en verroerde zich
-niet. Eindelijk kreeg de vroÃªmoer een' inval.
+niet. Eindelijk kreeg de vroêmoer een' inval.
 
 "Ze is gelukkig verlost," zei ze op eens tot den koning. "Hoe is dat
 mogelijk?" borst deze uit en sprong vol verbazing op. Op 't zelfde
@@ -1550,7 +1586,7 @@ Heer ook wel beter voor oogen houden, want ge begrijpt, dat ge wel
 zwak en klein moet blijven en pijn in den rug lijden, en dat ik niet
 veel dienst van u kan hebben, als gij 's nachts voor hen moet werken."
 
-Van den dag af, dat de oude vrouw vroÃªmoer was geweest bij de koningin,
+Van den dag af, dat de oude vrouw vroêmoer was geweest bij de koningin,
 vond zij elken morgen een hoop zilvergeld voor hare deur, en 't ging
 haar nu zoo goed, dat ze er weldra warmpjes in zat. Maar eens geviel
 het, dat eene heel arme vrouw haar heur' nood klaagde.
@@ -1580,7 +1616,7 @@ koninklijke paar, te vondeling werden gelegd.
 
 Te dien tijde stonden namelijk de geesten van den Egeberg in den
 kwaden roep, dat zij welgemaakte, mooie menschenkinderen stalen van
-de bewoners van GrÃ¶nland, Enerhaug en voornamelijk van Gamleby, en
+de bewoners van Grönland, Enerhaug en voornamelijk van Gamleby, en
 dan wisselwichten daarvoor in de plaats legden, en die kinderroof
 en kinderruil ging zoover, dat ze geen hulp genoeg hadden ze alle
 op te kweeken; daarom stalen zij ook kindermeiden en vaak hielden
@@ -1610,7 +1646,7 @@ hoofdstraat en de markt. En zie--daar stond het oude wijf uit den berg,
 bij wie ze kindermeid was geweest, bij de toonbank en stal rijst uit
 eene lade, zonder dat iemand haar scheen op te merken.
 
-"GoÃªn dag, moeder, moet ik je hier weer zien?" zei 't meisje; "hoe
+"Goên dag, moeder, moet ik je hier weer zien?" zei 't meisje; "hoe
 gaat het met uw kind?"
 
 "Kun-je mij zien?" vroeg de vrouw verbaasd.
@@ -1627,7 +1663,7 @@ meisje haar noch iemand anders daarmee zien; zij was en bleef blind
 aan 't rechter oog.
 
 Schoon er in onzen tijd gewis geen gebrek is aan dikhoofdige kinders,
-in GrÃ¶nland zoo min als in Gamleby, hoort men toch niet meer van
+in Grönland zoo min als in Gamleby, hoort men toch niet meer van
 den kinderroof der geesten van den Egeberg. Vooreerst namelijk is de
 verlichting zoo hoog gestegen, dat men, in plaats van de wisselkinderen
 drie donderdagavonden achtereen op de vuilnishoop te geeselen of ze met
@@ -1677,11 +1713,11 @@ bui na de andere viel kletterend neer op de hooge boomen, en naar
 alle waarschijnlijkheid zou de regen den ganschen dag aanhouden,
 al verzekerde ook de kleine Trine, die gedurig uit- en invloog, dat
 de lucht, nu eens in 't oosten en dan weer in 't westen, opklaarde,
-en dat we nog wel vÃ³Ã³r den middag zouden kunnen uitgaan.
+en dat we nog wel vóór den middag zouden kunnen uitgaan.
 
 "En daarom, beste juffer,--ik ben louter gehoor."
 
-"Meent gij dan, dat ik u iets zal vertellen, mijnheer AsbjÃ¶rnsen? Ik
+"Meent gij dan, dat ik u iets zal vertellen, mijnheer Asbjörnsen? Ik
 ben er achter gekomen, dat gij u niet, als iedereen, vergenoegt
 met te luisteren naar wat men u vertelt, maar dat ook opschrijft en
 't laat drukken. Daarom behoef ik mijne belofte niet te houden."
@@ -1728,7 +1764,7 @@ bidden; luister dus, en gij zult hooren, dat uw verlangen naar mijn
 verhaal kwalijk gerechtvaardigd wordt."
 
 "Op een' zomerdag, terwijl ik op den Saeter logeerde, gingen Trine en
-ik met een der Saetermeisjes naar buiten om braambeziÃ«n te zoeken. Het
+ik met een der Saetermeisjes naar buiten om braambeziën te zoeken. Het
 was een heldere dag en geen windje deed zich hooren. 't Had den
 vorigen dag geregend en de lucht om den berg was zuiver en klaar. In de
 kloven en tusschen de steenen wiesen eene menigte planten met groote,
@@ -1769,7 +1805,7 @@ levend wezen bewoond. Nooit had ik zulk eene grootsche woestenij,
 zulk eene verheven armoede aanschouwd. Toch stemde mij 't gezicht
 daarvan treurig, ja bijna neerslachtig. Een bruin gespikkelde vogel
 vloog naar den heuvel in onze nabijheid en begon te fluiten. Maar
-zijne tonen klonken zÃ³Ã³ klagend, zÃ³Ã³ weemoedig, als of het dier wilde
+zijne tonen klonken zóó klagend, zóó weemoedig, als of het dier wilde
 weergeven, wat ik op dat oogenblik gevoelde.
 
 Brita en Trine hadden den heelen tijd te zamen gesnapt. Ik begon nu
@@ -1889,7 +1925,7 @@ zoo mooi en vet, als ik ze nimmer had gezien. En op de horens droegen
 zij gouden knoppen en om den hals zilveren bellen en vooraan liep
 eene groote vrouw met eene herdersfluit in de hand en eene melknap
 met zilveren banden; zij praatte met de koeien en noemde ze bij den
-naam. Maar zulke koeienamen had ik van mijn leven nog niet gehoord! ZÃ³Ã³
+naam. Maar zulke koeienamen had ik van mijn leven nog niet gehoord! Zóó
 begon ze te zingen:
 
 
@@ -1918,7 +1954,7 @@ De tweede maal, dat ik de Huldren zag, was geruimen tijd later. Ik
 was toen reeds een volwassen meisje. 'k Was vroolijk van aard en
 waar de vedel ging, kon men mij altijd vinden. Terwijl ik 's zomers
 op den saeter lag, zou er gedanst worden op de bergvlakte. 'k Ging
-er heen en niet vÃ³Ã³r den morgen keerde ik naar de hut terug. Ik
+er heen en niet vóór den morgen keerde ik naar de hut terug. Ik
 ging naar bed en meende een uurtje te slapen. Maar--hoe 't kwam,
 weet ik niet--ik versliep mij, zoodat de koeien over haar' tijd in
 den stal bleven. Toen ik ontwaakte, stond de zon reeds hoog aan den
@@ -1929,7 +1965,7 @@ bosch. En over de bergvlakten weerklonk dit
 
 
                                 LIEDJE.
-    Vroolijk.                                         Uit het Ã–sterdal.
+    Vroolijk.                                         Uit het Österdal.
 
 
         Ka - ri en Ma - ri, staat toch op, Neemt het licht,
@@ -1938,7 +1974,7 @@ bosch. En over de bergvlakten weerklonk dit
         bigt een zeug, werpt een geit, jongt een schaap:
         't Vee, dat blijft in de weide; Hei Halvorsen, Halvor
         Dar - sen, Dei Dy - ringen, Dyring Bramsen, Bram
-        BÃ¶rresen, BÃ¶ring Bundersen, Dunder Dangsen en Sommer
+        Börresen, Böring Bundersen, Dunder Dangsen en Sommer
         Ningsen en Somme Dromlingen!
 
         Langzamer.
@@ -1985,7 +2021,7 @@ dit ordelooze nest van dicht opeengebouwde winkel- en woonhuizen,
 in een armelijk kamertje zat eene oude vrouw op een' stoel zonder rug
 te spinnen. Ik deed haar eenige vragen, waarvan de eerste slechts
 werd beantwoord met een' uitvorschenden blik, de tweede en derde
-met een "HÃ¨?" Toen ik eindelijk voor de vierde maal vroeg, of ze
+met een "Hè?" Toen ik eindelijk voor de vierde maal vroeg, of ze
 mij ook kon zeggen, waar Peter, de doodgraver, was, antwoordde zij:
 "O, Graven, ligt hier nog een goed kwartier vandaan."--"Neen, Peter,
 de doodgraver," schreeuwde ik. "Ja Graven ligt naar 't oosten; ga
@@ -2144,7 +2180,7 @@ best. Zelfs voor den koning niet," voegde hij er bij, om de zaak
 buiten allen twijfel te stellen.
 
 Ik was reeds voornemens heen te gaan, toen hij op nieuw stilstond,
-half van mij afgekeerd. Na den hoed op Ã©Ã©n oor te hebben gezet, begon
+half van mij afgekeerd. Na den hoed op één oor te hebben gezet, begon
 hij eerst in den eenen, toen in den anderen zak van zijn wambuis
 te zoeken; maar 't scheen, dat hij niet kon vinden, wat hij zocht,
 hij was blijkbaar teleurgesteld, vooral toen een nieuw onderzoek even
@@ -2153,7 +2189,7 @@ vruchteloos was gebleken.
 Ik giste spoedig, dat zijne tabak op was en dacht vergenoegd:
 "nu is de beurt aan mij." In mijne botaniseerdoos had ik eene van
 Tidemand's beroemde rollen tabak geborgen, en terwijl ik den schijn
-aannam van naar mijn' zakdoek te zoeken, wist ik 't behendig zÃ³Ã³
+aannam van naar mijn' zakdoek te zoeken, wist ik 't behendig zóó
 aan te leggen, dat de rol juist op den rand van den grafkuil viel,
 waarin hij stond. Heel kalm bukte ik mij om de tabak op te rapen,
 maar 't zonneschijntje, dat op eens 't gelaat van den doodgraver deed
@@ -2161,7 +2197,7 @@ ophelderen, ontging mij niet. Als in gedachten maakte ik de rol open,
 lokte mijn' gehoornden vriend, die dicht bij 't graf stond, tot mij
 en liet hem een groot stuk van de rol afbijten.
 
-"Hoe ver is TÃ¶nsager hier van daan?" vroeg ik.
+"Hoe ver is Tönsager hier van daan?" vroeg ik.
 
 De doodgraver mompelde iets over 't misbruiken van Gods gaven, maar
 antwoordde toch beleefder dan te voren, dat 't omstreeks een half
@@ -2189,7 +2225,7 @@ op nieuw.
 "Dat zie ik," gaf ik ten antwoord.
 
 "'t Was de vrouw van een' landbouwer hier in 't dorp; zij was geacht
-en geÃ«erd," merkte hij verder op.
+en geëerd," merkte hij verder op.
 
 "Zoo."
 
@@ -2222,7 +2258,7 @@ doen heb, en niet met een' zotskap," zei Peter, terwijl hij zijne
 gereedschappen bijeenzocht en uit den kuil steeg. "Vervloekt vee,"
 riep hij toornig en sloeg naar den bok, "zulke bokken zijn 't ergste
 ongedierte, dat ik ken; ze moesten doodgeslagen worden, dat er niet
-Ã©Ã©n overbleef."
+één overbleef."
 
 Nadat hij door deze ontboezeming zijn gemoed wat had verlicht, zette
 hij zich op eene zerk neder en begon te verhalen.
@@ -2230,7 +2266,7 @@ hij zich op eene zerk neder en begon te verhalen.
 "Gij zijt niet de eerste, wien ik 't vertel," zoo ving hij aan. "Wilt
 gij 't gelooven--goed; gelooft ge 't niet--laat het dan voor 't geen
 het is.--Daar leefde eens in 't dorp hier een boer, die gehoord had,
-dat de heksen allerlei spel dreven in de kerk op den avond vÃ³Ã³r de
+dat de heksen allerlei spel dreven in de kerk op den avond vóór de
 feestdagen. Hij geloofde er niets van, maar voelde toch den lust bij
 zich opkomen, eens te zien of 't waar was; hij kon dan tevens te weten
 komen, wie zich met hekserij ophielden. Op Paaschavond zette hij zich
@@ -2262,10 +2298,10 @@ Geruimen tijd daarna geviel 't, dat dezelfde man, die dit alles
 op Paaschavond had gezien, als hofmeester was genoodigd op eene
 bruiloft. En daar was nu ook de vrouw, die vooraan ging in den
 heksenstoet. Toen men aan tafel wilde gaan, verzocht men haar 't eerst
-te gaan zitten; want zij werd door elk geÃ«erd, moet ge weten. Maar
+te gaan zitten; want zij werd door elk geëerd, moet ge weten. Maar
 zij wilde nu eens de bloode spelen en men kon 't niet van haar gedaan
 krijgen. Herhaaldelijk noodigde de hofmeester haar uit zich aan tafel
-te zetten, maar eindelijk werd hij 't bidden moÃª en fluisterde haar in
+te zetten, maar eindelijk werd hij 't bidden moê en fluisterde haar in
 't oor:
 
 "Ga maar eerst zitten; ge zijt 't immers wel gewend. Toen ik u op
@@ -2299,7 +2335,7 @@ gestegen. De jagers namen haar op en brachten haar voor den rechter,
 en deze besliste, dat zij levend verbrand zou worden. Maar eer zij op
 den brandstapel kwam, verzocht zij nog, dat men even den blinddoek
 van hare oogen zou nemen. Dat deed men ook, doch eerst plaatste men
-haar zÃ³Ã³, dat haar oog niet op weide en akker, maar alleen op den
+haar zóó, dat haar oog niet op weide en akker, maar alleen op den
 berg kon vallen. En dit was goed ook; want op eens was 't bosch, aan
 den kant waarheen ze had gezien, geheel zwart geblakerd en verschroeid!
 
@@ -2398,17 +2434,17 @@ Spoedig lag de knaap te snorken met open oogen, en nauwelijks zag de
 heks dit, of zij haalde een' smeerhoren onder den haardsteen vandaan
 en smeerde den bezemstok in:
 
-"Nu op en dan neer, naar JÃ¶nsaas, zei ze en steeg door den schoorsteen
-op en reed naar JÃ¶nsaas, eene groote bergvlakte, waar veel saeters
+"Nu op en dan neer, naar Jönsaas, zei ze en steeg door den schoorsteen
+op en reed naar Jönsaas, eene groote bergvlakte, waar veel saeters
 staan.
 
 Onzen knaap docht het nu heel grappig, als hij haar voorbeeld eens
 volgde om te zien, wat zij uitvoerde, want hij meende, dat zij had
-gezegd: "nu op en dan neer, naar MÃ¶nsaas" [3]. Hij haalde daarom ook
+gezegd: "nu op en dan neer, naar Mönsaas" [3]. Hij haalde daarom ook
 den horen onder den steen vandaan en wreef met den inhoud daarvan een'
 stok in.
 
-"Nu op en dan neer, naar MÃ¶nsaas," zei hij toen, en nu voer hij op
+"Nu op en dan neer, naar Mönsaas," zei hij toen, en nu voer hij op
 en neder, altijd tusschen den schoorsteen en de dakvorst, den heelen
 nacht door, en toen de stok eindelijk stil hield, was hij half dood.
 
@@ -2442,7 +2478,7 @@ te schrijven, hij bedoelde natuurlijk haar' naam.
 
 Maar zij schreef, wat de schoolkinderen plegen te schrijven, wanneer
 zij de pen probeeren: "Die mij voedsel geeft, is God, in Jezus' naam,"
-en--nu mocht zij 't boek houden, want Oude-Erik was niet zÃ³Ã³ boud, dat
+en--nu mocht zij 't boek houden, want Oude-Erik was niet zóó boud, dat
 hij 't dorst terugnemen. Plotseling ontstond er een vreeselijk alarm
 op den berg. De heksen namen de zweep, en sloegen op hare voertuigen
 los, en aanstonds vlogen ze heen door weer en wind. Ook 't meisje nam
@@ -2468,7 +2504,7 @@ breken, eer men 't weet. Dan gaat het beter met de samenkomsten op
 de kerktorens; daar kan men ze zien, wanneer men slechts op eene
 doorgesneden graszode gaat zitten, niet waar, Peter?"
 
-"Niet op eene doorgesneden zoÃ´," verbeterde de doodgraver; "in
+"Niet op eene doorgesneden zoô," verbeterde de doodgraver; "in
 elke hand moet men er eene omhoog houden, en de snede moet tegen de
 zon in zijn getrokken. Wie zoo gaat staan, met een psalmboek op de
 borst en drie gerstekorrels in den mond--waarvan de eene den Vader,
@@ -2481,7 +2517,7 @@ beter afgekomen. Ja, hij kwam er toch wel goed af, maar 't was "bij
 Men had dien man verteld, dat de heksen op heiligavonden zoo
 verschrikkelijk huis hielden in den kerktoren. Hij kon nu den lust niet
 bedwingen daar eens bij te wezen en zoo ging hij er op een' Kerstavond
-heen en zette zich in een' hoek neder. Wel had hij eene groote graszoÃ´
+heen en zette zich in een' hoek neder. Wel had hij eene groote graszoô
 bij zich, maar deed niet alles naar behooren, zoo 't schijnt. Daar
 kwamen de heksen aangereden; de een na de ander sloop de torengaten
 binnen, sommige op bezemstokken, andere op harken, enkele op geiten,
@@ -2566,7 +2602,7 @@ hij sprong nu hoog, dan laag, en schopte en joeg met inspanning
 van alle krachten. De hofmeester viel haast om van pret over al de
 dwaze gebaren, welke de knaap maakte, en allen, die 't aanzagen,
 geloofden stellig, dat hij niet bij zijne zinnen was. Maar toen hij
-den afgesproken wenk had gegeven, bemerkten ze, dat hij niet zÃ³Ã³ gek
+den afgesproken wenk had gegeven, bemerkten ze, dat hij niet zóó gek
 was, als ze meenden; want toen de hofmeester er flink op los sloeg,
 hoorde men een verschrikkelijk geschrei en gejammer door 't heele huis,
 en sommigen, die later ter bruiloft kwamen van den kant van Komperud,
@@ -2627,7 +2663,7 @@ was 't onmogelijk de voorwerpen te onderscheiden; eer ik 't wist,
 vloog ik tegen een' struik aan; een mijner sneeuwschoenen brak,
 en daar lag ik met 't hoofd half onder de sneeuw bedolven. Toen ik
 trachtte op te staan, voelde ik zulk eene pijn in den eenen voet,
-dat ik dien nauwelijks kon gebruiken; ik moest eene poos op de knieÃ«n
+dat ik dien nauwelijks kon gebruiken; ik moest eene poos op de knieën
 rondkruipen en vond zoo eindelijk mijn geweer terug met den loop vol
 sneeuw. Pas had ik mij aan den oever der rivier in hinderlaag gelegd,
 of eene kudde wolven kwam langzaam nader; daar waren er in 't geheel
@@ -2653,7 +2689,7 @@ te snijden.
 
 "Goeden avond; schrik maar niet, gij kent mij toch, Bertha?" zeide ik.
 
-"HÃ©, is mijnheer de student nog zoo laat buiten; ik schrok werkelijk
+"Hé, is mijnheer de student nog zoo laat buiten; ik schrok werkelijk
 van u; ge zijt wit van de sneeuw en 't is middernacht," antwoordde
 Bertha, terwijl zij opstond. Ik vertelde 't ongeval, dat mij was
 overkomen, en verzocht haar een' der jongens te wekken en dien naar
@@ -2670,12 +2706,12 @@ in koor lag te snorken, "ze hebben den heelen dag voor Nordigaard
 hout bij de rivier vandaan gehaald. Kleine Ola, sta op en haal een
 paard voor mijnheer den student! Sta dan op, Ola!"
 
-"HÃ¨..." zeide Ola met een akelig neusgeluid, terwijl hij zich
+"Hè..." zeide Ola met een akelig neusgeluid, terwijl hij zich
 bewoog. De slaap was hem echter een al te groot genot, dan dat
 hij zich zoo gemakkelijk daarvan liet aftrekken, en er verliep eene
 eeuwigheid, die hij besteedde met de oogen uit te wrijven, te geeuwen
 en te gapen, en allerlei zotte vragen te doen, eer hij zich uit
-den saamgeraapten hoop dekens en vellen in de bedsteÃª losgewikkeld,
+den saamgeraapten hoop dekens en vellen in de bedsteê losgewikkeld,
 buis en broek aangeschoten had en recht begreep, wat hij nu eigenlijk
 moest doen. De belofte van een' drinkpenning scheen intusschen zijn
 begrip wat te doen opklaren en verjoeg zelfs alle vrees voor den berk,
@@ -2729,7 +2765,7 @@ den sneeuwsok los en hielp mij den schoen uittrekken. Nu sloeg zij
 eenige malen een kruis over den brandewijn en begon tooverspreuken
 op te zeggen; zij meende ze te fluisteren, maar daar zij tamelijk
 doof was, kon ik 't gansche formulier van woord tot woord verstaan;
-zÃ³Ã³ luidde het:
+zóó luidde het:
 
 
     Ik wilde eens spoedig aan d' overkant zijn:
@@ -2782,7 +2818,7 @@ zelfs bezworen.
 "Oom Mads woonde op Knae in 't Hurdal. Vaak was hij in 't gebergte om
 boomen te vellen en hout te hakken, en wanneer hij daar was, placht hij
 er ook des nachts te blijven; hij bouwde dan eene hut en maakte daarin
-eene legersteÃª. Eens bevond hij zich met twee anderen in het woud;
+eene legersteê. Eens bevond hij zich met twee anderen in het woud;
 juist toen hij een' zwaren boom had geveld en een ommezien zat uit te
 rusten, kwam een kluwen garen langs de helling vlak voor zijne voeten
 rollen. Hij begreep er niets van en dorst het kluwen niet opnemen;
@@ -2965,7 +3001,7 @@ stopte Bertha eenige schellingen in de hand voor hare verpleging,
 en binnen een kwartier was ik tehuis. Omslagen met azijn en frisch
 water deden den voet weldra genezen; maar toen Bertha eens in
 de keuken verscheen en, pochend op hare kunst, zich de eer mijner
-spoedige genezing wilde toeÃ«igenen, konden de jongens zich niet langer
+spoedige genezing wilde toeëigenen, konden de jongens zich niet langer
 bedwingen; zij schreeuwden haar de tooververzen in 't oor, die ik hun
 had geleerd, en vroegen spottend of eene teug brandewijn en eenige
 onzinnige woorden een geneesmiddel waren tegen kneuzingen. Dit maakte
@@ -3026,7 +3062,7 @@ processen en staatsburgerlijke rechten, twisten over oppervoogdijschap
 en 't vellen van hout of de toenemende weelde, over de handelingen
 der regeering en over mijnontginning, over belasting op 't koren en
 grondontginning, over industrie en centralisatie, over bureaucratie
-en ambtenaarsaristocratie, en over alle cratiÃ«n, satiÃ«n en triÃ«n,
+en ambtenaarsaristocratie, en over alle cratiën, satiën en triën,
 die ooit bestaan hebben of nog bestaan van Nebukadnezar's tijden tot
 op den dag van heden.
 
@@ -3092,7 +3128,7 @@ oude Bertha weet er alles van; zij heeft 't zelve gehoord en zegt, dat
 't even prachtige muziek was als bij den schout in 1814. Niet waar,
 Bertha?" vroeg de smid.
 
-"Ja dat 's waar; zoo zeker als er Ã‰Ã©n hier boven is," antwoordde de
+"Ja dat 's waar; zoo zeker als er Één hier boven is," antwoordde de
 aangesprokene, die bij den haard wol zat te kaarden.
 
 "Nu dan, 't paard werd vastgehouden," ging de smid voort, "en wilde
@@ -3164,7 +3200,7 @@ maar hij zag niets."
 ik ook vertellen van een' predikant hier. Hij moest naar eene oude
 vrouw, die op sterven lag, en heel slecht had geleefd. Toen hij door
 't bosch reed, bleef zijn paard plotseling stilstaan, maar hij wist
-raad, want 't was een wakkere kerel, die predikant. In Ã©Ã©n' sprong
+raad, want 't was een wakkere kerel, die predikant. In één' sprong
 was hij de slede uit op den rug van 't paard. Hij tuurde tusschen
 't hoofdstel door en zag een oud, leelijk man, met de hand aan de
 toomen--waarschijnlijk de duivel zelf.
@@ -3247,7 +3283,7 @@ zorgt en de beste bouwknecht is, dien men maar kan hebben, dat weten
 wij allen. Daar is menigeen, die veel nut van hem trekt, en van hem
 niet alleen, want in Ullensaker," zoo begon hij eene nieuwe vertelling,
 "woonde eens een man, die evenzoo geholpen werd door de aardgeesten,
-als anderen door den nikker; hij woonde op RÃ¶gli. Deze man wist, dat
+als anderen door den nikker; hij woonde op Rögli. Deze man wist, dat
 er zich bij zijne hoeve Huldren ophielden; immers, eens terwijl hij in
 't voorjaar naar stad ging en in de Skjaellebeek zijne paarden had
 gedrenkt, kwam er eene groote kudde bonte koeien den heuvel over;
@@ -3260,7 +3296,7 @@ melknap in de hand.
 verbaasd.
 
 "Wel," antwoordde 't meisje, dat voorop liep: "wij gaan naar den
-saeter van RÃ¶gli in Ullensaker; daar zijn kostelijke weiden.
+saeter van Rögli in Ullensaker; daar zijn kostelijke weiden.
 
 "Men kan zich voorstellen, hoe de man opkeek, toen hij vernam, dat zij
 naar zijn eigen veld trokken; elk dien hij op zijn' weg, ontmoette,
@@ -3333,7 +3369,7 @@ want ik heb hem niet gezien en evenmin op 't hoofd gehad."
 
 "Ja, de aardgeesten moeten slimme dieven zijn," zei de oude Bertha
 Tuppenhaug, "maar 't ergst te duchten zijn ze in den saetertijd;
-dat is als 't ware Ã©Ã©n lang hoogtij voor de Huldren en aardgeesten;
+dat is als 't ware één lang hoogtij voor de Huldren en aardgeesten;
 want als de saetermeisjes dan aan hare afwezige vrijers denken,
 vergeten zij een kruis te slaan over de melk of de boter, en dan
 neemt 't Huldervolk al wat het wil. Niet vaak vertoonen ze zich aan
@@ -3370,14 +3406,14 @@ man; wat hij heeft gezegd, kan niet betwijfeld worden. Hij woonde
 op Skroperud in Ullingsaker en heette Jo. Hij had zich eene nieuwe
 woning gebouwd en bezat een stuk of drie koeien, mooie beesten, en een
 paard, welks wederga men niet licht zal vinden. Met dit paard reed
-hij vaak van Mo naar TrÃ¶gstad en, wanneer 't zoo uitkwam, van hier
+hij vaak van Mo naar Trögstad en, wanneer 't zoo uitkwam, van hier
 naar Skrimstad en weer terug naar Mo; en hoe ver hij zijne reizen
 ook uitstrekte, 't beest bleef even wakker en sterk. Hij was ook
 jager en speelman. Vaak speelde hij bij anderen, maar thuis kon men
 hem er niet toe brengen den vedel ter hand te nemen; al was ook 't
 gansche vertrek vol jongelieden, altijd weigerde hij te spelen. Maar
 eens kwamen er eenige jongelui, die veldflesschen met brandewijn bij
-zich hadden. Toen zij den oude eerst hadden overgehaald Ã©Ã©n' borrel
+zich hadden. Toen zij den oude eerst hadden overgehaald één' borrel
 te nemen, volgden er meer; en, schoon hij aanvankelijk weigerde,
 eindelijk zocht hij toch den vedel op. Maar nadat hij eene poos
 had gespeeld, legde hij hem weg, want hij wist, dat de aardgeesten
@@ -3406,7 +3442,7 @@ de deur uit met groot misbaar. Jo echter scheen 't, alsof een heele
 hoop kluwens garen naar buiten rolde. Maar toen hij 't geweer had
 weggezet en weer naar den haard ging, om zijn pijpje, dat uitgegaan
 was, aan te steken, daar zat een oud man op zijn' stoel, met een'
-baard zÃ³Ã³ lang, dat hij tot op den grond reikte; ja, langer dan eene
+baard zóó lang, dat hij tot op den grond reikte; ja, langer dan eene
 el was hij stellig. De grijsaard had ook een pijpje in den mond en
 hield een stuk hout in de vlam om het aan te steken, evenals Jo;
 maar telkens, als hij 't naar zijne pijp bracht, ging het uit; dan
@@ -3436,7 +3472,7 @@ men hoorde 't gerammel van sleutels en 't gerinkel van zilveren
 huisraad. De landheer was bezig zijne verhandeling voor te lezen
 aan alle roerende goederen, van de zilveren schenkkan tot de blikken
 tabaksdoos. Juist toen de smid zweeg, stak hij 't hoofd, met de muts
-op Ã©Ã©n oor, binnen de keukendeur en zeide:
+op één oor, binnen de keukendeur en zeide:
 
 "Heb-je nu gedaan met je zotheden en leugens, smid?"
 
@@ -3560,7 +3596,7 @@ is 't hoefijzer te klein, dan kan 't grooter gemaakt worden, en is
 En zij ging naar de smidse, vatte het ijzer met beide handen aan en
 rekte het uit.
 
-"Zie eens," zei ze, "zÃ³Ã³ moet ge doen." En ze boog het samen, of
+"Zie eens," zei ze, "zóó moet ge doen." En ze boog het samen, of
 't een stuk lood was. "Houd nu den poot op," en 't hoefijzer paste
 zoo nauwkeurig, als de beste smid maar kon wenschen.
 
@@ -3601,7 +3637,7 @@ DE BEWONERS VAN LUNDE.
 
 
 Eenige jaren geleden was ik op weg naar 't Gudbrandsdal, over Hadeland
-en Toten, langs den westelijken oever van het MjÃ¶senmeer. Te Sveen,
+en Toten, langs den westelijken oever van het Mjösenmeer. Te Sveen,
 een station in Biri, kreeg ik een' luien knol, en een' hoog bejaarden,
 praatzieken voerman.
 
@@ -3612,7 +3648,7 @@ ongewone levendigheid en de treffende opmerkingen van mijn' voerman
 over verscheidene bewoners van 't vlek, konden mij licht verzoenen
 met zijne buitengewone spraakzaamheid. Daarbij kwam, dat het een
 heerlijke lenteavond was. De zonnestralen verguldden de oppervlakte
-van het MjÃ¶senmeer, kleurden de wolken en speelden tusschen 't jonge
+van het Mjösenmeer, kleurden de wolken en speelden tusschen 't jonge
 groen. De vlakten van den Faaberg, die ver in 't noorden het landschap
 begrensde, werden al donkerder en verloren zich in donkerblauwe en
 violette tinten, terwijl de avondzon haar' gouden glans wierp over
@@ -3745,7 +3781,7 @@ hij Aase Lunde gehoord noch gezien; als zij niet gestorven is, dan
 leeft zij nog en woont in 't Hulderslot bij de Dingsteenen.
 
 Meer en meer breidden de schaduwen zich uit over de velden van
-Biri en 't MjÃ¶senmeer; de koelte van den avond daalde op de velden
+Biri en 't Mjösenmeer; de koelte van den avond daalde op de velden
 neder. Suizend en fluisterend streek de wind door de toppen der
 boomen en bracht een' vriendelijken groet van de bloeiende hagen en de
 geurige bloemen der velden en wouden mee voor de vogels, die, sinds
@@ -3793,7 +3829,7 @@ om bijzonder in den smaak te kunnen vallen van een' jong mensch. 't
 Liefst dwaalden hare gedachten om in 't verleden, en wanneer zij,
 zooals vaak gebeurde, mij eene of andere historie, die in de stad was
 voorgevallen, verhaalden, herinnerden zoowel de inhoud daarvan als de
-naÃ¯eve voorstelling aan een' tijd, die reeds lang tot 't verledene
+naïeve voorstelling aan een' tijd, die reeds lang tot 't verledene
 behoorde. Met dit ouderwetsche karakter mijner dames stond ook het
 huis, dat zij bewoonden, in volmaakte overeenstemming. 't Was een
 dier oude gebouwen, zooals men ze nog in de Toldbodstraat vindt, met
@@ -3887,7 +3923,7 @@ ge den luitenant niet, kinderen?"
 
 "Och heden, is dat mijnheer de luitenant? Ik kende u niet; wat ziet
 ge bleek en wat hebben we u in lang niet gezien," riepen de kleinen
-als uit Ã©Ã©n' mond, terwijl ze elkaar verdrongen, om 't dichtst bij
+als uit één' mond, terwijl ze elkaar verdrongen, om 't dichtst bij
 mij te zijn. "Nu moet ge ons wat moois vertellen; we hebben zoolang
 niets van u gehoord; och, toe, beste luitenant, vertel ons wat van
 den geitebok, och, toe, van den geitebok en Goudtand!" Spoedig was ik
@@ -3914,11 +3950,11 @@ dien kant der stad nog leeger en eenzamer dan tegenwoordig, en 't
 weeshuis is een donker, somber gebouw. Nu, Kari was daar in dienst
 genomen als keukenmeid en zij was zeer wakker en bij de hand. Op
 zekeren nacht moest zij vroeg opstaan, om bier te gaan brouwen. Hare
-kameraden zeiden: "Zorg maar, dat ge niet al te vroeg opstaat; vÃ³Ã³r
-tweeÃ«n moogt ge 't deeg niet klaar maken." "Waarom niet?" vroeg zij.
+kameraden zeiden: "Zorg maar, dat ge niet al te vroeg opstaat; vóór
+tweeën moogt ge 't deeg niet klaar maken." "Waarom niet?" vroeg zij.
 
 "Weet ge dan niet, dat hier een nikker huist? Hij wil niet zoo vroeg
-gestoord worden, en daarom moogt ge niet aan 't werk gaan, vÃ³Ã³r de
+gestoord worden, en daarom moogt ge niet aan 't werk gaan, vóór de
 klok twee heeft;" antwoordden zij.
 
 "Dat zou wat!" zei Kari, die lang niet van gisteren was, zooals men
@@ -3926,12 +3962,12 @@ zegt; "ik heb niets met den nikker te maken, en komt hij binnen,
 dan zal ik hem wel even de deur uitsmijten."
 
 De anderen waarschuwden haar ernstig, maar zij wilde nergens van weten,
-en eer de klok van Ã©Ã©nen koud was, stond zij op, legde vuur aan onder
+en eer de klok van éénen koud was, stond zij op, legde vuur aan onder
 den brouwketel en begon het deeg gereed te maken. Maar telkens ging het
 vuur uit, en telkens was 't, of iemand het brandhout uit de vlam trok
 en over den haard spreidde; toch bespeurde zij niemand. Herhaaldelijk
 stapelde zij 't hout weer op, maar 't baatte haar niet, en ook 't
-deeg wilde niet vlotten. Eindelijk werd ze dit tobben moÃª, nam een
+deeg wilde niet vlotten. Eindelijk werd ze dit tobben moê, nam een
 stuk brandhout, zwaaide er mee in 't rond en riep:
 
 "Pak je weg, of ik zal je leeren!... Meen-je me te plagen, dan heb je
@@ -4071,7 +4107,7 @@ ter kerk. In de straat was alles doodstil, geen sterveling was er te
 bespeuren. In de kerk gekomen, zocht ze de bank op, waar ze placht
 te zitten en keek eens rond. Maar wat zagen de menschen er bleek en
 akelig uit; 't leken wel lijken! En niemand van de schare kende zij;
-schoon meer dan Ã©Ã©n gezicht haar niet vreemd voorkwam, wou haar maar
+schoon meer dan één gezicht haar niet vreemd voorkwam, wou haar maar
 volstrekt niet invallen, waar zij ze kon gezien hebben. De predikant,
 die den kansel beklom, was ook geen dominee uit de stad, maar een lang,
 bleek man, dien ze toch ook wel eens meende ontmoet te hebben.
@@ -4098,11 +4134,11 @@ predikant als 't grootste gedeelte der gemeente voorheen had gekend;
 allen waren voor langen tijd overleden. Ze ijsde er van. Losjes
 sloeg ze den mantel om zich heen, zooals de vrouw haar had geraden en
 snelde heen; maar 't was haar, of al de dooden haar volgden, en haar
-zochten terug te houden: hare knieÃ«n knikten en bijna was ze op den
+zochten terug te houden: hare knieën knikten en bijna was ze op den
 vloer neergezegen. Toen zij in 't kerkportaal kwam, voelde zij haar'
 mantel grijpen; zij maakte den gesp los, liet den mantel in den steek
 en vlood, zoo snel de beenen haar dragen wilden, naar huis. 't Sloeg
-Ã©Ã©n uur, toen zij hare huisdeur opende en half dood van schrik naar
+één uur, toen zij hare huisdeur opende en half dood van schrik naar
 binnen wankelde. 's Morgens vonden de kerkgangers haar' mantel op den
 stoep, in duizend stukken gereten. Mijne moeder kende den mantel zeer
 goed en ik meen ook, dat zij een der stukken heeft gezien; maar wat
@@ -4166,7 +4202,7 @@ vader, een kerel als een boom. "Hoe kom-jij hier?"
 gekomen; want, ziet ge, ik was met uw' vader op Naes en toen zeide
 hij: "Thor," zei hij, "we zijn nu niet ver van de stad; neem bruin
 en rijd er mee naar stad en zie eens, hoe de luitenant het maakt,
-en is hij wÃ¨l genoeg, neem hem dan mee naar huis."
+en is hij wèl genoeg, neem hem dan mee naar huis."
 
 Toen wij de stad uitreden, was de lucht helder en de weg
 uitmuntend. Bruin repte zijne oude pooten zoo hard hij kon, en nimmer
@@ -4192,7 +4228,7 @@ voornamelijk met boeren had omgegaan, sprak hij een zeer zonderling,
 gebroken boersch dialect. Toch was dit niet altijd toereikend; wanneer
 zijne gedachten elkaar wat snel volgden, en meestal deden ze dit
 op eene tamelijk verwarde wijze, dan bediende hij zich plotseling
-van zijne moedertaal, of bleef steken in een koeterwaalsch, zÃ³Ã³
+van zijne moedertaal, of bleef steken in een koeterwaalsch, zóó
 wonderlijk, dat men vergeefs zou trachten het weer te geven. De jager
 Thor Ulvsvolden was een man van middelbare lengte, met donkere oogen
 en scherp geteekend, verweerd gelaat, waarop ernst en nadenken te lezen
@@ -4316,7 +4352,7 @@ een ommezien haperde, niet zonder een beetje nieuwsgierigheid.
 wilden we ook rendieren schieten," antwoordde Sir John.
 
 "Ja wel, rendieren schieten, als er maar rendieren zijn! Ik vrees,
-dat je 't zult opgeven en je kameraad ook, vÃ³Ã³r je er Ã©Ã©n hebt
+dat je 't zult opgeven en je kameraad ook, vóór je er één hebt
 gezien. In 't voorjaar had-je hier moeten zijn, toen we den saeter
 betrokken, toen zwierven hier eene menigte mooie beesten rond. Op
 een' der Vaage-saeters is een meisje, dat Barbro heet; 't is nog
@@ -4367,7 +4403,7 @@ voorkomen maakte op den vreemdeling een' zeer onbehagelijken indruk,
 die nog verergerd werd door de geaffecteerde wijze, waarop hij den
 mond samentrok, als hij sprak. De weetgierigheid en belangstelling
 van den bergbewoner tegenover den vreemdeling, dien hij voor zich
-ziet, zijne openhartige, naÃ¯eve, somwijlen ook ongepaste vragen zijn
+ziet, zijne openhartige, naïeve, somwijlen ook ongepaste vragen zijn
 bekend. Maar hier vertoonde zich onder een vernis van beschaving eene
 onverdragelijke indringende nieuwsgierigheid, die nog onuitstaanbaarder
 werd door den triomfanten blik, welken hij bij iedere vraag om zich
@@ -4390,7 +4426,7 @@ moedertaal:
 onbeschaamdheid!"
 
 "Ah!" zeide de schoolmeester met een gezicht, alsof hij een som uit den
-regel-van-drieÃ«n had gevonden: "thans is het mij op eenmaal duidelijk,
+regel-van-drieën had gevonden: "thans is het mij op eenmaal duidelijk,
 dat de heeren reizigers zijn uit vreemde landen; wellicht uit Engeland
 of Frankrijk, of misschien wel uit Spanje; voor korten tijd kwam hier
 immers een graaf uit laatstgenoemd land!"
@@ -4399,7 +4435,7 @@ immers een graaf uit laatstgenoemd land!"
 wel hooren, dat 't Noorsch mijne moedertaal is; en mijn reisgezel,
 Sir John Tottenbroom, komt uit Engeland."
 
-"Zoo, zoo--is die geÃ«erde heer uit 't Britsche rijk gekomen?" zei
+"Zoo, zoo--is die geëerde heer uit 't Britsche rijk gekomen?" zei
 de schoolmeester, terwijl hij een' blik in 't rond sloeg, om de
 opmerkzaamheid te vestigen op de geographische kennis, die hij nu
 dacht ten toon te spreiden: "En is hij hierheen gereisd te water over
@@ -4420,7 +4456,7 @@ en een lang mondstuk; "de vent brabbelt niets anders dan Engelsch."
 "Ja, indien hij de Duitsche taal meester ware," zeide de schoolmeester
 op een' toon van gewicht, "dan zoude ik wel met hem kunnen spreken;
 want daarin ben ik redelijk wel ervaren--ik heb Geddike's Leesboek
-en HÃ¼bner's Geographie in die taal bestudeerd."
+en Hübner's Geographie in die taal bestudeerd."
 
 "Spreek hem maar in 't Duitsch aan, schoolmeester," zeide ik, "dan
 zal hij u wel antwoorden."
@@ -4442,13 +4478,13 @@ Pontus Euxinus, die in 't jaar 715 dicht vroor tot op eene diepte van
 uitdampte, dat er eene pestilentie ontstond, waardoor alle menschen
 te Konstantinopel stierven?"
 
-'t Schaterend gelach, dat losbarstte over dit "feit" uit HÃ¼bners
+'t Schaterend gelach, dat losbarstte over dit "feit" uit Hübners
 Geographie, maakte een einde aan de Duitsche conversatie en een'
 tijd lang was de schoolmeester innerlijk verontwaardigd over onzen
 spot. Hij scheen echter niet heel onverzoenlijk van aard; toen wij
 al dichter om den haard schoven, naderde hij den kring. De meisjes,
 die vertellen zouden, waren gekomen; zij zagen er net en vriendelijk
-uit. EÃ©ne van haar had zelfs eene bevallige houding en een fijn
+uit. Eéne van haar had zelfs eene bevallige houding en een fijn
 besneden gezichtje, dat echter in bleekheid de bergbloem evenaarde.
 
 Toen Brit mijne uitnoodiging om sprookjes te vertellen ondersteunde,
@@ -4473,7 +4509,7 @@ den mond van 't volk leven."
 geraakten toon, "dat past geen' leermeester der jeugd en allerminst een
 lid van 't dorpsbestuur, als ik, die de constitutie heb bezworen. Wat
 zou ik moeten zeggen, indien men mij vroeg of 't waar was, dat Halsten
-RÃ¶en sprookjes had zitten vertellen als eene oude baker?"
+Röen sprookjes had zitten vertellen als eene oude baker?"
 
 "En wat heb-je dan wel gezegd, toen je die sprookjes van je-weet-wel
 opgedischt en het avondliedje hebt gezongen op Ulvsvolden, verleden
@@ -4520,7 +4556,7 @@ wond toe; daarop trok hij een' kring in den grond om hem heen, maakte
 een kruis in de lucht boven zijn hoofd en bande daardoor den boozen
 geest op de plek, waar hij stond.
 
-"Waar is de melkster van RÃ¶nnaas gebleven?" vroeg hij den geest. Deze
+"Waar is de melkster van Rönnaas gebleven?" vroeg hij den geest. Deze
 wilde niet antwoorden, maar Hogner dreigde hem zoo lang, tot hij
 bekende, dat zijn makker Platneus, die in 't veld bij Stuttgang huisde,
 het meisje had weggevoerd.
@@ -4548,11 +4584,11 @@ de slinksche streken van een' slimmen vogel."
 "In het hoofdkerspel Vaage," zoo begon hij, terwijl hij eenige
 malen kuchte en hoestte en langzaam den blik liet weiden over alle
 aanwezigen, "leefden voor langen tijd een paar echtelieden, Steingrim
-en JÃ¶da, die in deze bergstreek hun bestaan vonden in veehoeden
+en Jöda, die in deze bergstreek hun bestaan vonden in veehoeden
 en het vangen van wild. De man, Steingrim, vond den dood bij een'
-sneeuwval in JÃ¶ndalsbraatom. In 't zelfde jaar werd hun volwassen
-zoon, Ivar, tot den krijgsdienst geroepen, en JÃ¶da bleef de eenige
-verzorgster van vele kinderen. De tweede zoon, BjÃ¶rn, was, schoon
+sneeuwval in Jöndalsbraatom. In 't zelfde jaar werd hun volwassen
+zoon, Ivar, tot den krijgsdienst geroepen, en Jöda bleef de eenige
+verzorgster van vele kinderen. De tweede zoon, Björn, was, schoon
 nog jong, reeds eenigszins de steun zijner moeder. Hij was zeer
 groot voor zijne jaren, vlug en waagziek, en overtrof elkeen in 't
 loopen op de sneeuwschoenen, in 't vangen van wild en op de jacht. In
@@ -4561,11 +4597,11 @@ rendieren zich in de verschillende seizoenen en bij verschillend weder
 ophouden, waar zij een toevluchtsoord zoeken, of die zij ontvlieden,
 en hierdoor vermoedelijk kwam hij tot de ontdekking van de fijne en
 scherpe reuk der rendieren, die hem, naar men verhaalt, leidde tot
-de uitvinding der "blinde schutters." [6] Meestal was BjÃ¶rn door
+de uitvinding der "blinde schutters." [6] Meestal was Björn door
 menschenschuwheid bevangen en zocht bij elke gelegenheid alleen op
 de jacht te gaan, en zijn geluk bij dit handwerk deed ieder verbaasd
 staan. Sommigen meenden, dat hij door tooverij vogels en dieren aan
-Ã©Ã©ne plek kon boeien, zoodra hij ze in 't oog kreeg; anderen, dat hij
+ééne plek kon boeien, zoodra hij ze in 't oog kreeg; anderen, dat hij
 in bondgenootschap stond met de berggeesten en in sommige gevallen
 hulp en onderricht van hen verkreeg in de voordeeligste wijze van
 jagen. In dezen waan werd het volk versterkt door de omstandigheid,
@@ -4595,10 +4631,10 @@ De meisjes schaterden het uit en beklaagden den armen schoolmeester
 om zijne jaloerschheid. Op mijn verzoek nam nu Thor het woord op en
 ging voort:
 
-"In 't kerspel ligt eene hoeve, Ã–st-Eng geheeten; daar woonde een man,
-die Baard heette. Hij was ook jager en kon niet velen, dat BjÃ¶rn altijd
-zoo gelukkig was op de jacht. Deze Baard Ã–st-Eng had eene dochter,
-die Rundborg heette. Naar haar vrijde BjÃ¶rn ter sluiks, maar zoodra
+"In 't kerspel ligt eene hoeve, Öst-Eng geheeten; daar woonde een man,
+die Baard heette. Hij was ook jager en kon niet velen, dat Björn altijd
+zoo gelukkig was op de jacht. Deze Baard Öst-Eng had eene dochter,
+die Rundborg heette. Naar haar vrijde Björn ter sluiks, maar zoodra
 haar vader dit merkte, zwoer hij, als hij hem ooit op zijne hoeve
 vond, dat hij hem dan precies zou behandelen als een wild rendier;
 op staanden voet zou hij hem doodschieten.
@@ -4608,10 +4644,10 @@ voegde hij er bij. Hij bestemde 't meisje nu voor iemand uit
 Skaarvangen. Dit was Selvor Oppistuen; hij was half simpel en
 een monster van leelijkheid. Rundborg smeekte wel, dat haar vader
 haar niet tot dit huwelijk zou dwingen, maar het baatte niets. Toch
-bracht ze het zoover, dat zij niet vÃ³Ã³r de bruiloft, die met St. Jan
+bracht ze het zoover, dat zij niet vóór de bruiloft, die met St. Jan
 zou worden gevierd, den bruidegom behoefde op te zoeken. De bruigom
 ging zelf de gasten te bruiloft noodigen en zoo kwam hij ook in 't
-boschvlek bij de familie en de buren der bruid. Op SÃ¶nste-Eng was
+boschvlek bij de familie en de buren der bruid. Op Sönste-Eng was
 hij reeds de deur uit, toen de eigenaar hem naliep en vroeg:
 
 "Maar op welken dag moeten we komen? Dat hebt ge vergeten te zeggen."
@@ -4620,8 +4656,8 @@ hij reeds de deur uit, toen de eigenaar hem naliep en vroeg:
 eerst vandaag over eene week wezen; maar we zullen op de fluit spelen,
 als we voorbijkomen, wees dan zoo goed ons te volgen," antwoordde hij.
 
-Dit hoorde een broer van BjÃ¶rn en liet het dezen dadelijk
-weten. BjÃ¶rn had spoedig zijn plan gemaakt; hij liet zijne moeder
+Dit hoorde een broer van Björn en liet het dezen dadelijk
+weten. Björn had spoedig zijn plan gemaakt; hij liet zijne moeder
 en zijn' broer voor de zaken zorgen en ging naar Skaarvangen. Eerst
 wilde hij 't gevolg van den bruidegom beletten het huis der bruid
 te bereiken. Daartoe ging hij 's nachts naar eene bergkloof bij
@@ -4636,7 +4672,7 @@ de ondiepte bij Sandbo doorwaden. Toen zij in 't boschvlek kwamen,
 reden sommigen uit den stoet verder, om de bruid af te halen; de
 overigen bleven achter. Dezen dronken tot tijdverdrijf uit hunne
 veldflesschen en bliezen op de fluit, maar ondertusschen zat de broer
-van BjÃ¶rn een eind van den weg af in 't kreupelhout neergehurkt;
+van Björn een eind van den weg af in 't kreupelhout neergehurkt;
 en toen men opstond, volgde hij van verre.
 
 't Duurde echter geruimen tijd, eer de gasten klaar waren en zich bij
@@ -4651,11 +4687,11 @@ deden hun daar geen' ondienst mee, want behalve een' droppel of wat
 uit de veldflesch, hadden zij den heelen dag niets genoten. Toen ze
 zich wat verkwikt hadden, noodigden Bottolf en Alf hen uit zich wat
 te vermaken. De jonggetrouwden zouden slapen op den zolder boven het
-proviandhuis van Svare. Laat in den avond kwam BjÃ¶rn's broer bij dezen
+proviandhuis van Svare. Laat in den avond kwam Björn's broer bij dezen
 en vertelde hem, dat de bruid den nacht op Svare-hoeve doorbracht.
 
 "'t Zou me verwonderen, als ze daar morgenavond nog was," zei
-BjÃ¶rn. Maar toen het nacht was geworden en de gasten allen ter rust
+Björn. Maar toen het nacht was geworden en de gasten allen ter rust
 waren gegaan, sloop er door de zolderdeur eene groote, forsche
 vrouwengestalte binnen, in een groen overkleed en met een groot
 blank mes in de hand. Zij scheurde de bruid uit de armen van den
@@ -4663,7 +4699,7 @@ bruidegom. Deze greep nog naar haar, maar op 't zelfde oogenblik sneed
 de Hulder met het mes in den wand, dat de splinters er afvlogen. Toen
 dorst de bruigom de oogen niet meer opslaan, maar hij vloog 't vertrek
 binnen, waar zijne vrienden lagen, en kreet met groot misbaar, dat
-de Hulder van 't JÃ¶ndal op den zolder was geweest en zijne bruid had
+de Hulder van 't Jöndal op den zolder was geweest en zijne bruid had
 weggeroofd, om haar tot vrouw te geven aan haar' zoon. En hij mompelde,
 dat hij zich van kant wou maken.
 
@@ -4681,30 +4717,30 @@ de rivier was buiten hare oevers getreden en stortte zich met donderend
 geraas naar beneden.
 
 Nu zond men een' bode naar den predikant. Deze ried aan, de kerkklokken
-uit den toren van Vaage te nemen, die naar 't JÃ¶ndal te brengen en daar
+uit den toren van Vaage te nemen, die naar 't Jöndal te brengen en daar
 drie etmalen lang te luiden. Dat deed men; over den Reuzenberg voerde
-men de klokken naar een groot veld in 't JÃ¶ndal, en sedert dien dag
+men de klokken naar een groot veld in 't Jöndal, en sedert dien dag
 draagt die vlakte ook den naam van 't Klokkeveld. Drie etmalen lang
 luidde men, maar te vergeefs: de bruid was weg. Nu gaf een oud man
 den raad, drie donderdagavonden achtereen te luiden, maar dit hielp
-evenmin. Eindelijk verscheen BjÃ¶rn en vertelde, hoe hij had gedroomd,
+evenmin. Eindelijk verscheen Björn en vertelde, hoe hij had gedroomd,
 dat Rundborg door de berggeesten heel slecht werd behandeld. Maar de
 Skulreus had hem zijne hulp beloofd, als hij haar wilde verlossen,
-want de reus was gebeten op de Huldren van 't JÃ¶ndal. En niemand
+want de reus was gebeten op de Huldren van 't Jöndal. En niemand
 anders kon Rundborg bevrijden, want op hem had ze hare zinnen gezet;
 maar kreeg hij haar niet tot vrouw, dan wilde hij geen' stap doen om
 haar uit den berg te halen. Toen Baard en Selvor dit vernamen, waren
-ze woedend op BjÃ¶rn, en dreigden hem met al wat ze konden bedenken,
-zoo hij Rundborg niet verloste. Maar BjÃ¶rn hield het been stijf en
+ze woedend op Björn, en dreigden hem met al wat ze konden bedenken,
+zoo hij Rundborg niet verloste. Maar Björn hield het been stijf en
 draalde zoo lang, tot hij haar ten slotte kreeg.
 
-"Ja, zÃ³Ã³ is 't gegaan," zeide Brit, toen Thor zijne vertelling had
-geÃ«indigd, waarvan menige trek herinnerde aan den ruwen sagentijd.
+"Ja, zóó is 't gegaan," zeide Brit, toen Thor zijne vertelling had
+geëindigd, waarvan menige trek herinnerde aan den ruwen sagentijd.
 
 "Als de schoolmeester 't vertelt," ging zij voort, "dan brabbelt hij
 wat, dat geen mensch kan begrijpen van den predikant en den duivel,
-en dan zegt hij, dat BjÃ¶rn de bruid van den zolder wegvoerde; maar
-dat is niet waar: hij verloste haar juist, maar de JÃ¶ndals-Hulder,
+en dan zegt hij, dat Björn de bruid van den zolder wegvoerde; maar
+dat is niet waar: hij verloste haar juist, maar de Jöndals-Hulder,
 die had haar geroofd."
 
 Geen van ons viel 't in, deze bewering van Brit te bestrijden; maar
@@ -4730,7 +4766,7 @@ die hem duchtig hadden onthaald op brandewijn; "en nu," besloot Brit
 op medelijdenden toon "nu praat hij als eene kip zonder kop."
 
 "Ja," voegde Marit er bij, "en hij is nu in zoo'n best humeur, dat
-zijn hoed op Ã©Ã©n haartje staat; maar op Hans is hij woedend. Hij zal
+zijn hoed op één haartje staat; maar op Hans is hij woedend. Hij zal
 stellig gauw hier zijn en dan zult ge eene grap zien gebeuren."
 
 't Duurde niet lang, of we vernamen de stem van Hans, die een aardig
@@ -4748,7 +4784,7 @@ zocht zich zooveel vertoon van waardigheid te geven, als maar mogelijk
 was; maar zijne stijve houding en zijn glazige blik verrieden zijn'
 toestand reeds eer hij den mond opendeed.
 
-"Ik vraag u vergiffenis, hooggeÃ«erde heeren," zei hij met eene dikke
+"Ik vraag u vergiffenis, hooggeëerde heeren," zei hij met eene dikke
 tong en eene bespottelijke buiging, "'t was niet hoffelijk van mij,
 dat ik zoo plotseling de deur uitstoof en de taak, om u te onderhouden,
 overliet aan dezen waardigen rendierjager, die toch altijd een leek
@@ -4818,7 +4854,7 @@ uit vrijen, dat ontziet zich niet, eerwaardige mannen te beleedigen,
 die al hun leven wijsheid hebben gegaard! Sta op, zeg ik je, wanneer
 ik spreek," voer hij voort, "zooals de Spartaansche jongelingen deden
 in 't bijzijn van ervaren mannen en grijsaards. Weet, dat ik twintig
-jaar lang heb gestudeerd bij den ouden predikant GrÃ¶nbeck. Sta op,
+jaar lang heb gestudeerd bij den ouden predikant Grönbeck. Sta op,
 zeg ik je!"
 
 Maar Hans bleef rustig zitten, glimlachte even en liet twee rijen
@@ -4840,7 +4876,7 @@ wisschen. Hij zeide daarom:
 leef anders altijd zeer matig, als ik me zelven dit getuigenis
 mag geven, en over 't algemeen ben ik geenszins verslaafd aan een
 onmatig gebruik van dat afschuwelijke vocht. Maar ik moet me bij
-u verontschuldigen, hooggeÃ«erde heeren en waardige dorpsgenooten,
+u verontschuldigen, hooggeëerde heeren en waardige dorpsgenooten,
 over mijn lang wegblijven. De weg naar de deur valt iemand zoolang,
 wanneer hij onder vrienden is. Eenige goede kennissen en buren hebben
 me namelijk van hun' brandewijn laten proeven. En hier in 't gebergte
@@ -4858,7 +4894,7 @@ te nemen, maar--nooit te veel."--En onwillekeurig viel hij weer uit:
 "Neen," ging hij voort, "nooit te veel, de hemel beware me daarvoor! Ik
 weet nog heel goed, wat ik heb gezegd en gedaan en wat ik nu nog te
 zeggen en te doen heb ook; maar 't is toch verderfelijk vocht. Maar wat
-ik zeggen wou, ik was bezig met de belangwekkende historie van BjÃ¶rn
+ik zeggen wou, ik was bezig met de belangwekkende historie van Björn
 Praeststulen, toen ik, met verlof, heenging in 't vast vertrouwen,
 dat zij nauwkeurig zou worden vervolgd. Mijn waardige vriend, Thor
 Ulvsgaarden, ge hebt toch wel verhaald, hoe de geestelijkheid daarin
@@ -4873,32 +4909,32 @@ woord van gezeid."
 op een' toon van gewicht; "wat Thor heeft weggelaten, is juist 't
 merkwaardigste van de gansche historie, want dat betreft de twisten
 en 't proces. Ja, ziet ge, dat ging op deze wijze toe: toen die lui,
-namelijk Selvor Oppistuen en Baard Ã–steng met beloften en bedreigingen
-BjÃ¶rn Praeststulen zochten over te halen om het meisje te bevrijden,
-of hun te openbaren hoe dit zou kunnen geschieden, toen begon bij BjÃ¶rn
+namelijk Selvor Oppistuen en Baard Östeng met beloften en bedreigingen
+Björn Praeststulen zochten over te halen om het meisje te bevrijden,
+of hun te openbaren hoe dit zou kunnen geschieden, toen begon bij Björn
 twijfel te rijzen aangaande 't geen hem te doen stond; want weldra
 zou de hooioogst beginnen en dan had hij natuurlijk heel wat anders
 te doen, dan Rundborg verscholen te houden in jagershutten en andere
 schuilhoeken van 't gebergte. Hij zeide, dat ze zich vruchteloos tot
 de berggeesten zouden wenden, en dat hij zelf dit niet waagde, eer hij
 den bijstand van den Skulreus had ingeroepen. Intusschen deed hij hun
-den voorslag met hun drieÃ«n naar den predikant te gaan en dezen tot
-scheidsman te kiezen. Zoo gezegd, zoo gedaan. BjÃ¶rn verklaarde zeer
+den voorslag met hun drieën naar den predikant te gaan en dezen tot
+scheidsman te kiezen. Zoo gezegd, zoo gedaan. Björn verklaarde zeer
 breedvoerig, hoe een geest tot hem gesproken had in den droom en hem
 had bevolen, Rundborg te huwen. De predikant wilde de zaak opschorten,
-tot de maagd zelf getuigenis zou kunnen afleggen, en toen BjÃ¶rn een
+tot de maagd zelf getuigenis zou kunnen afleggen, en toen Björn een
 etmaal later met haar verscheen, verklaarde zij, hoeveel zij had
 te lijden gehad bij de Hulder; hoe deze op een huwelijk met haar'
 zoon had aangedrongen, waardoor zij haar voor goed in hare macht zou
-krijgen, en hoe BjÃ¶rn en de Skulreus haar uit den berg verlost en
+krijgen, en hoe Björn en de Skulreus haar uit den berg verlost en
 haar bewaard hadden voor de schande van eene heks te worden. Terwijl
 hij nauwkeurig de beweringen en bewijzen van beide partijen wikte en
 woog, werd de predikant eindelijk 't spoor geheel bijster; hij was
 in een labyrinth geraakt, waaruit hij vruchteloos den weg trachtte te
-vinden. De openbaring, aan BjÃ¶rn geschied, was wellicht eene bestiering
+vinden. De openbaring, aan Björn geschied, was wellicht eene bestiering
 des Allerhoogsten, die de predikant niet durfde wraken. Maar Selvor en
 Rundborg waren in den echt vereenigd door den priester en op 't woord
-van God, en 't gewicht dier beiden kon evenmin worden geloochend. BjÃ¶rn
+van God, en 't gewicht dier beiden kon evenmin worden geloochend. Björn
 bezat de liefde van Rundborg als het ware van kindsbeen af. Selvor kon
 niet roemen op hare min, maar wel op de toestemming der ouders, welke,
 doordien zij ouder en gevolgelijk verstandiger waren, beter wisten wat
@@ -4907,18 +4943,18 @@ onbeperkte uitoefening van de rechten der ouders tegenover de kinderen
 maakt de eersten vaak tot beulen, zeide de predikant--bij zich zelven,
 wel te verstaan. Na veel peinzen kwam hij tot het volgende besluit:
 Ik spreek geen oordeel uit in deze ingewikkelde zaak; zij behoort voor
-den burgerlijken rechter te worden gebracht. Middelerwijl mag BjÃ¶rn,
+den burgerlijken rechter te worden gebracht. Middelerwijl mag Björn,
 die haar heeft bevrijd, haar ook behouden. Maar door de rechtbank werd
 't volgende vonnis gewezen:
 
-"BjÃ¶rn Praeststulen mag zonder eenig voorbehoud huwen met Rundborg
-Baardsdochter Ã–steng; Selvor Oppistuen en Baard Ã–steng moeten het
+"Björn Praeststulen mag zonder eenig voorbehoud huwen met Rundborg
+Baardsdochter Östeng; Selvor Oppistuen en Baard Östeng moeten het
 land ruimen, omdat zij dit huwelijk hebben willen beletten."
 
-"Van dit laatste kwam echter niets; want BjÃ¶rn verwierf genade voor
+"Van dit laatste kwam echter niets; want Björn verwierf genade voor
 zijn' schoonvader en sedert werden zij beste vrienden."
 
-Zoo werd de sage van BjÃ¶rn Praeststulen door den schoolmeester
+Zoo werd de sage van Björn Praeststulen door den schoolmeester
 aangevuld. Maar woorden zijn dood en machteloos. Daar was iets
 onbeschrijfelijk komieks in zijn heele manier van vertellen, in zijn'
 toon, zijne gebaren, in 't rijzen en dalen zijner stem, en niet
@@ -4997,7 +5033,7 @@ volkeren omkeeren."
 "Wanneer breede wegen door de dalkloven den vijand het binnendringen
 licht maken," antwoordde Jens, "en wanneer 't geweld de wetten des
 lands zal schrijven, dan zal de vonk van den oorlog tot eene vlam
-worden, en Noorwegen en Zweden zullen onder Ã©Ã©n' schepter komen. Maar
+worden, en Noorwegen en Zweden zullen onder één' schepter komen. Maar
 eer dit geschiedt, zal de vuurgloed de schoone vlakte van Sell
 verteren en de wateren der Skotte zullen haar bedekken. Dan zullen
 de bergen van Noorwegen sidderen en een ekster zal zijn nest bouwen
@@ -5039,7 +5075,7 @@ kwam niet weerom. Verscheiden jaren later waren eens twee mannen aan
 eene hut opgezocht en een vuur aangelegd. Terwijl ze 's avonds laat
 nog bij elkaar zaten, kwam er eene vrouw de hut binnen, groot van
 stal en vriendelijk van uitzicht. Zij vertelde, dat zij de dochter
-was van Steven Aaseng en dat zij vÃ³Ã³r vele jaren door de berggeesten
+was van Steven Aaseng en dat zij vóór vele jaren door de berggeesten
 in den berg was gesleept en sedert daar altijd had gehuisd.
 
 "Maar morgen moet ik trouwen met den reus van Raanaaskamp," sprak zij,
@@ -5049,7 +5085,7 @@ moet ik voor altijd in den berg blijven. Wanneer gij op de heuvels
 bij de rivier gaat staan, dan kunt gij ons zien, want ik kom van
 Trosstemkamp en ga naar Raanaaskamp. Den bruidegom kunt ge dadelijk
 herkennen; hij rijdt vooraan op een zwart paard en heeft eene neus
-zÃ³Ã³ lang, dat ze tot op den zadelknop hangt."
+zóó lang, dat ze tot op den zadelknop hangt."
 
 De visschers beloofden, dat ze den bruidstoet zouden opwachten en een
 bos hooi over haar hoofd werpen, en de bruid vertrok. Den volgenden dag
@@ -5079,8 +5115,8 @@ op hem toe en wierp hem hals over kop op een hoop waschgoed. Maar
 tegelijkertijd struikelde ze, viel en zonk met hem in de diepte. Bij
 een groot kasteel kwamen ze terecht; de knaap, dien ze nu begreep dat
 onder de berggeesten thuis hoorde, nam haar bij de hand en voerde
-haar door verscheiden vertrekken, zÃ³Ã³ prachtig, dat Kari nimmer
-iets dergelijks had gezien. En muziek hoorde men er, zÃ³Ã³ fraai,
+haar door verscheiden vertrekken, zóó prachtig, dat Kari nimmer
+iets dergelijks had gezien. En muziek hoorde men er, zóó fraai,
 als men hier boven nooit verneemt. Men noodigde haar uit te dansen,
 bracht haar wijn en dranken en gebak, dat er uitzag als houtspaanders
 bij ons, maar Kari weigerde alles en men kreeg niets uit haar dan:
@@ -5148,7 +5184,7 @@ van razernij. Langzamerhand werd ze wel beter, maar nooit kan ze
 't vertellen, zonder dat haar nog de tranen in de oogen kwamen.
 
 Nu werden er twee oudere veehoedsters naar den saeter gezonden,
-Myr-RÃ¶nnaug en Gekke-Kari. Die zeiden, dat ze niet bang waren voor de
+Myr-Rönnaug en Gekke-Kari. Die zeiden, dat ze niet bang waren voor de
 berggeesten, ze mochten gerust komen. Intusschen had ook de hoedster
 van Loms-saeter de berghut betrokken. Deze drie vriendinnen weidden
 nu dagelijks met elkander 't vee en waren zoo dartel en dwaas, dat er
@@ -5157,13 +5193,13 @@ heuvels, haalden nesten uit en sloegen de jonge vogels dood. En wanneer
 ze op den Valberg waren, riepen ze, dat Tron, die in den berg woonde,
 maar op een' Vrijdagavond moest komen, dan zouden ze hem op hare
 armen in slaap wiegen; en als ze in 't Kvaernstudal waren, riepen ze
-'t zelfde tegen TjÃ¶stul, die daar in den berg huisde, en wanneer ze in
-de nabijheid van de bergspits bij SlethÃ¶ kwamen, riepen ze 't alweer
+'t zelfde tegen Tjöstul, die daar in den berg huisde, en wanneer ze in
+de nabijheid van de bergspits bij Slethö kwamen, riepen ze 't alweer
 tegen Kristoffel Pungen, die daar zijn verblijf had gekozen. En als
 's avonds 't werk gedaan was, gingen ze bij elkander zitten op de lage
-schutting om 't erf en riepen: "Tron Valberg, Kristoffel EldfÃ¶rpungen,
-TjÃ¶stul Aaheuvel, komt nu maar, we gaan naar bed!" Want geen van
-drieÃ«n geloofde wat de menschen vertelden, dat er geesten in de bergen
+schutting om 't erf en riepen: "Tron Valberg, Kristoffel Eldförpungen,
+Tjöstul Aaheuvel, komt nu maar, we gaan naar bed!" Want geen van
+drieën geloofde wat de menschen vertelden, dat er geesten in de bergen
 woonden, die zoo heetten. Maar ze zouden wel anders gewaar worden! Op
 een' donderdagavond, laat in den herfst, toen alle andere saeters reeds
 verlaten waren, zaten de drie vriendinnen bij elkander om den haard en
@@ -5173,13 +5209,13 @@ de meisjes evenmin, maar met verbazing zagen ze, dat de drie dwergen
 op de banken naast haar gingen zitten. Ze hadden lange, blauwe mantels
 om en groote roode oogen en lange neuzen. Na een uurtje gingen ze weer
 heen, maar den volgenden avond kwamen ze terug en werden al stouter
-en stouter; Myr-RÃ¶nnaug en de hoedster van Loms-saeter begonnen bang
+en stouter; Myr-Rönnaug en de hoedster van Loms-saeter begonnen bang
 voor hen te worden en deden menig schietgebedje, maar Gekke-Kari
 bleef nog onvervaard. Op een' vrijdagavond verschenen ze op nieuw
 en hielden nu zoo verschrikkelijk huis, dat 't niet te zeggen valt;
 want 't waren sterke kerels, al waren ze klein. Maar onverwacht kwam
 een jager, Per Gynt, de beangste deernen te hulp. Hij schoot Aaheuvel
-dood en brak Tron Valberg de ribben; maar EldfÃ¶rpungen ontkwam door
+dood en brak Tron Valberg de ribben; maar Eldförpungen ontkwam door
 den schoorsteen."
 
 Terwijl we na Brit's vertellingen nog eenigen tijd praatten over de
@@ -5191,7 +5227,7 @@ terug en vertelden, dat de schoolmeester tusschen eenige rotsblokken
 in was geraakt en op noch neer kon.
 
 "Dan zal ik hem wel moeten helpen," sprak Hans; "maar ik zou wel
-lust hebben met de paarden mee te gaan naar de UlsÃ¶hut, om te zien,
+lust hebben met de paarden mee te gaan naar de Ulsöhut, om te zien,
 of ge morgen ook rendieren onder schot krijgt."
 
 "Och, kom, als je dat meent, begrijp ik er niemendal van," zei Brit
@@ -5223,7 +5259,7 @@ OP DE VOGELJACHT IN HOLLEIA.
 
 Op een' der eerste dagen van Mei, lang voor de jachtwet werd ingevoerd,
 togen wij van Tyristrand 't gebergte in, om den volgenden morgen
-boschhoenders te schieten op den SkjaersjÃ¶heuvel, waar deze jacht
+boschhoenders te schieten op den Skjaersjöheuvel, waar deze jacht
 't voordeeligst beloofde te zijn. We waren met ons vieren, mijn
 vriend, de kapitein, ik, een oude jager, met name Per Sandaker uit
 het Sognedal, en een vlugge knaap, die twee koppels honden met zich
@@ -5234,7 +5270,7 @@ we een' milden avond en de vogels zongen hun voorjaarslied in het
 bosch. In de nabijheid van Ask-saeter, waar wij den nacht meenden
 door te brengen, beklommen wij den heuvel, bij alle jagers, die
 in deze bosschen rondzwerven, welbekend, om te hooren, waar de
-vogels dien nacht hunne slaapsteÃª hadden opgeslagen. Toen wij den
+vogels dien nacht hunne slaapsteê hadden opgeslagen. Toen wij den
 top bereikt en een ruim verschiet gewonnen hadden, neeg de zon ter
 kim, maar schoot nog hare gulden stralen in vollen luister langs den
 helderen westelijken hemel. Geen vroolijk en vriendelijk landschap
@@ -5318,7 +5354,7 @@ geen kleintje vervaard! De oude vloog hem in de veeren, en snavels
 en vleugels sloegen tegen elkaar, dat het een' aard had. Plotseling
 sprongen ze beide op en tegen elkander in, en staken met den snavel
 en scheurden met de pooten en sloegen met de vleugels en maakten
-'t zoo bont, dat geen van tweeÃ«n meer wist, waar hem de kop zat;
+'t zoo bont, dat geen van tweeën meer wist, waar hem de kop zat;
 makkelijk had ik ze met de handen kunnen grijpen. Maar ten slotte
 kreeg de oude de overhand; hij sloeg en havende zijn' vijand, tot
 deze het uitgierde van pijn. 't Was zonde van 't wakkere hoen; de
@@ -5330,9 +5366,9 @@ zaak, dan zal ik je gauw anders leeren. Ik laadde op nieuw, legde aan,
 maar op eens vloog hij op en was verdwenen--maar 'k zal nooit een'
 enkelen vogel meer schieten, als hij verder dan tien schreden van
 mij af was geweest! Een andermaal was ik weer hier op den berg en
-hoorde hem 's avonds zijne slaapsteÃª opzoeken. Op een' tak van eene
+hoorde hem 's avonds zijne slaapsteê opzoeken. Op een' tak van eene
 oude spar zette hij zich neder. Ik ging er in 't holste van den nacht
-heen, lang vÃ³Ã³r een enkele vogel in het bosch ontwaakt was. En toen
+heen, lang vóór een enkele vogel in het bosch ontwaakt was. En toen
 hij nu begon te balderen, ontbrak er geklepper noch geslijp aan, en
 rustig bleef hij zitten. Toen hij voor de vierde maal zich deed hooren,
 naderde ik--hij zat een eindweegs in het bosch. Nu zul-je mijn worden,
@@ -5344,9 +5380,9 @@ veeren er afvlogen. Daar is niets, dat vat heeft op dien kerel!"
 "Toch zullen we hem morgen zoeken beet te nemen, Per; we weten nu,
 waar hij zit," zei de kapitein met een spottend lachje.
 
-"Ja, als er niet Ã©Ã©n vogel meer in 't bosch was," antwoordde Per,
+"Ja, als er niet één vogel meer in 't bosch was," antwoordde Per,
 half boos. "Wil de kapitein hem naloopen, best--maar ik verspil
-geen korrel kruit meer aan hem. Want Ã©Ã©n ding staat vast," ging hij
+geen korrel kruit meer aan hem. Want één ding staat vast," ging hij
 trouwhartig voort, "zulk balderen heeft nooit iemand meer gehoord. En
 dan zoo'n vogel! Kijk, 't is het wonderlijkste dier, dat ik ooit
 zag. Hij is niet eens geschapen als een ordentelijke boschhaan,
@@ -5389,7 +5425,7 @@ nagezeten, maar 't baat niet, want hij is niet te vangen!"
 En bedenkelijk schudde hij het hoofd.
 
 "Is hij niet te vangen? Wat is dat voor geleuter? Er zal hier wis
-niet Ã©Ã©n ordentelijke hond zijn. Als mijne hazewinden maar de lucht
+niet één ordentelijke hond zijn. Als mijne hazewinden maar de lucht
 van hem krijgen, dan zullen we eens zien," zei ik en klopte mijne
 beesten op den rug, die vol jachtlust aan het zeel trokken.
 
@@ -5459,7 +5495,7 @@ zich tot mij wendende.
 
 Neen, ik kende hem niet.
 
-"HÃ©, kent gij hem niet? Hij woont toch in een hutje aan den voet van
+"Hé, kent gij hem niet? Hij woont toch in een hutje aan den voet van
 den berg, vlak bij Greffen. Ik heb hem eens aangetroffen in Halland,
 terwijl hij met een stuk of wat groote heeren uit de stad op de jacht
 was. 't Was een rare sijs, maar een kerel van een' jager. Op een haas
@@ -5615,10 +5651,10 @@ zijne bergwoning verliet, omdat hij het schieten en geraas niet
 kon uitstaan. Maar die hoorde in dezen omtrek thuis. Of dat nu de
 man van deze Guri was of een ander, dat weet ik niet, maar 't moet
 ook een van de lui zijn geweest, die in de bergen huizen en daar
-hunne schatten hebben opgestapeld. Dat ging zÃ³Ã³ toe. In den tijd,
+hunne schatten hebben opgestapeld. Dat ging zóó toe. In den tijd,
 toen men de eerste groeven ontgon in Skoug-marken, woonde er eene
-vrouw bij de LangesjÃ¶-beek, die tusschen 't Sognedal en Tyristrand
-stroomt. Die vrouw heette RÃ¶nnau en daarom noemde men haar RÃ¶nnau
+vrouw bij de Langesjö-beek, die tusschen 't Sognedal en Tyristrand
+stroomt. Die vrouw heette Rönnau en daarom noemde men haar Rönnau
 Skougen. Omstreeks St. Jan, 's morgens in de vroegte, wiesch ze kleeren
 in de beek en zag op eens een verbazenden hoop zilveren voorwerpen,
 borden en schotels, lepels en vorken en allerlei keukengeraad; al
@@ -5632,17 +5668,17 @@ zilveren weerschijn over de steenen huppelde. Eene poos later begon
 men daar in Skoug-marken de kopergroeven te ontginnen; toen was er
 voortdurend zulk een verschrikkelijk geklop en gehamer, zulk een
 vervaarlijk leven, dat iemand hooren en zien verging. Op zekeren
-avond, laat, ging RÃ¶nnau van de beek naar huis. Daar ontmoette ze een'
+avond, laat, ging Rönnau van de beek naar huis. Daar ontmoette ze een'
 stevig man op een groot, zwart paard. Voor hem uit gingen karren met
 allerlei goederen en kudden zwijnen en ander vee.
 
-"Goeden avond, RÃ¶nnau," zeide de man, "ik ga weg."
+"Goeden avond, Rönnau," zeide de man, "ik ga weg."
 
-"Dat zie ik, vader, maar waarom?" vroeg RÃ¶nnau.
+"Dat zie ik, vader, maar waarom?" vroeg Rönnau.
 
 "Och, ze houden zoo vreeselijk huis in de groeven, dat mij 't hoofd
 er schier van berst. Ik kan 't niet langer uitstaan; daarom trek ik
-naar mijn' broeder in Thelemarken. Maar hoor eens, RÃ¶nnau," zeide hij,
+naar mijn' broeder in Thelemarken. Maar hoor eens, Rönnau," zeide hij,
 "waarom woudt ge juist al mijn keukengeraad hebben, toen ge zooveel
 zilver op den bodem der beek zaagt liggen? Hadt ge u tevreden gesteld
 met zooveel als ge in uw' schoot kondt bergen, dan ware 't u niet
@@ -5691,7 +5727,7 @@ ons wel wat haasten."
 
 "We hebben nog tijds genoeg, beste Per," sprak de kapitein;
 "het bosschhoen paart het liefst op de hoogten tusschen ons en het
-LÃ¶ndal-moeras, en ik denk, dat er niet veel van 't minnespel zal komen;
+Löndal-moeras, en ik denk, dat er niet veel van 't minnespel zal komen;
 het is te koud."
 
 "Straks wordt het zachter," antwoordde Per op stelligen toon. "De
@@ -5756,7 +5792,7 @@ zijn hernieuwd gebalder ons scheen uit te lachen.
 "Ik wist het wel," zeide Per wrevelig. "De oude is weer bezig. 't
 Baat niets ter wereld, hem te vervolgen; men zou even goed jacht
 kunnen maken op eene wolk bij stormweer. Laat ons verder noordop
-gaan, daar zitten verscheiden vogels; licht is er Ã©Ã©n onder, die
+gaan, daar zitten verscheiden vogels; licht is er één onder, die
 den bek durft opendoen, schoon ze alle bang zijn voor dat ondier,
 dat de duivel hale!"
 
@@ -5770,8 +5806,8 @@ daar toch niet onder schot, want de spar is veel te hoog."
 noordwaarts gaan."
 
 We trokken een eindweegs in de voorgenomen richting, voorbij een'
-reusachtigen steen, dien Per MjÃ¶lne-Ragnhild noemde, langs den
-zuidelijken zoom van 't LÃ¶ndal-moeras. Doch we hoorden geen' enkelen
+reusachtigen steen, dien Per Mjölne-Ragnhild noemde, langs den
+zuidelijken zoom van 't Löndal-moeras. Doch we hoorden geen' enkelen
 vogel. Per Sandaker begreep volstrekt niet, waar ze mochten gestoven
 zijn, maar kwam eindelijk op het vermoeden, dat het gevecht van den
 oude met het vreemde hoen ze alle had verjaagd. Reeds begon 't te
@@ -5813,7 +5849,7 @@ over 't moerasland heen kromde; de stormen hadden zijn' top vernield,
 slechts de onderste, bijna naakte takken waren overgebleven en strekten
 zich als forsch gespierde reuzenarmen naar den helderen hemel uit. De
 zon was opgekomen; zij verguldde de bergruggen en wierp haar' glans
-op de donkere pijnbosschen. Maar nog lag 't SkjaersjÃ¶-moeras, dat
+op de donkere pijnbosschen. Maar nog lag 't Skjaersjö-moeras, dat
 zich naar 't zuiden uitstrekte, zoover het oog kon reiken, in donkere
 schaduwen gehuld. De houtsnip, het bokje en alle nachtvogels waren
 ter rust gegaan; de vroolijke boschzangers daarentegen deden in den
@@ -5937,7 +5973,7 @@ De vrouw, tot wie zij 't woord richtte, mag omtrent zestig jaar zijn
 geweest en was grof van lijf en leden. Zij was buitengewoon groot
 van stal, maar terwijl ze zat, scheen ze eer klein dan middelmatig
 van lengte, en aan deze eigenschap had zij 't te danken, dat men
-bij haren naam GubjÃ¶r den scheldnaam Langpoot had gevoegd. Grijze
+bij haren naam Gubjör den scheldnaam Langpoot had gevoegd. Grijze
 haren kwamen onder hare muts vandaan, die een donker gelaat omlijstte
 met borstelige wenkbrauwen en een lange aan de spits sterk gekromde
 neus. De bekrompenheid van geest, die sprak uit het lage voorhoofd
@@ -5948,7 +5984,7 @@ kleeding bleek, dat zij uit eene noordelijker streek afkomstig was;
 haar gezicht en geheel haar doen verrieden de tooverheks, of ten
 minste de landloopster, die, naar omstandigheden, nu eens stout
 en onbeschaamd, dan weer vleiend en kruipend kon zijn. Terwijl de
-boerin sprak en met het bereiden der koffie bezig was, hield GubjÃ¶r
+boerin sprak en met het bereiden der koffie bezig was, hield Gubjör
 eene soort van hangmat, waarin een wicht van ziekelijk voorkomen lag,
 in beweging, door er nu en dan met de hand een' stoot aan te geven.
 
@@ -5979,7 +6015,7 @@ opengesmeten en binnen vloog--ja, ze zag niets--maar toch kwam er
 een binnen en pakte 't wisselkind mee en wierp haar eigen kind zoo
 onzacht op den vloer, dat het kreet van pijn.
 
-"Of misschien was 't het kind van Siri StrÃ¶mhugget? Dat was zoo mager
+"Of misschien was 't het kind van Siri Strömhugget? Dat was zoo mager
 als een tachtiger; 't mocht ook kreupel zijn, maar op uw kind leek
 't evenmin als op mijne oude muts. Ik herinner 't mij zoo goed als
 de dag van gisteren; toen ik nog bij den klokkemaker diende heb ik
@@ -5987,7 +6023,7 @@ de dag van gisteren; toen ik nog bij den klokkemaker diende heb ik
 aan kwam en hoe ze 't kwijt raakte. Ieder had er den mond vol van;
 want Siri kwam uit den vreemde. Toen zij nog eene deerne was, diende
 zij op Kvam, en 't heugt me nog klaar, hoe ze dan naar Gaupeskjelplads
-ging, waar hare ouders woonden. Sedert kwam zij op StrÃ¶mhugget in
+ging, waar hare ouders woonden. Sedert kwam zij op Strömhugget in
 dienst en trouwde met Ola, den zoon van den meester der hoeve.
 
 "Toen ze de eerste maal in 't kinderbed lag, kwam er een vreemd wijf
@@ -6011,7 +6047,7 @@ derden donderdagavond kwam er een wijf over het dak aanvliegen; het
 smeet een kind op den mesthoop en scheurde haar eigen daar af. Maar
 op 't zelfde oogenblik sloeg zij Siri op de vingers, dat deze er nog
 litteekens van draagt; en die litteekens heb ik met mijne eigen oogen
-gezien," voegde GubjÃ¶r er bij tot bevestiging van haar verhaal. "Neen,
+gezien," voegde Gubjör er bij tot bevestiging van haar verhaal. "Neen,
 dit kind heeft net zooveel van een wisselwicht als ik zelf;--en hoe
 zou het ook mogelijk zijn geweest het te ruilen?" vroeg zij.
 
@@ -6027,17 +6063,17 @@ een dorp bij Christiania. Die had ook een kind, dat ze door allerlei
 middelen zocht te beveiligen: zij sloeg een kruis boven de wieg,
 lei er vuur boven aan, deed bevergeil er in--alles naar haar beste
 weten, want men hoorde vaak van tooverij en duivelskunsten daar in
-den omtrek. Op zekeren nacht lag ze met het kind vÃ³Ã³r zich te bed;
-haar man lag tegen den wand der bedsteÃª. Pas zijn ze ingeslapen,
+den omtrek. Op zekeren nacht lag ze met het kind vóór zich te bed;
+haar man lag tegen den wand der bedsteê. Pas zijn ze ingeslapen,
 of de man ontwaakt en ziet een' rooden schijn in 't vertrek, juist
 of er iemand met de asschop het vuur samenrakelde. En daar was er
 ook werkelijk een aan het vuurrakelen; want toen de man een' blik
-op den haard sloeg, zag hij een oud man zitten, zÃ³Ã³ leelijk, als hij
-nog nooit iemand had gezien, met een' baard, die hem tot op de knieÃ«n
+op den haard sloeg, zag hij een oud man zitten, zóó leelijk, als hij
+nog nooit iemand had gezien, met een' baard, die hem tot op de knieën
 hing. Toen het vuur helder opflikkerde, begon de oude de armen naar
 het kind uit te strekken, maar wat hij deed, hij kon 't niet bereiken,
-en van zijn stoel rijzen kon hij evenmin. Zijne armen werden zÃ³Ã³ lang,
-zÃ³Ã³ lang, dat ze tot midden in het vertrek reikten; maar van zijne
+en van zijn stoel rijzen kon hij evenmin. Zijne armen werden zóó lang,
+zóó lang, dat ze tot midden in het vertrek reikten; maar van zijne
 plaats kwam hij niet. Dat duurde eene heele poos; de man lag stom
 van schrik en wist geen raad. Nu hoorde hij aan het venster tikken.
 
@@ -6087,7 +6123,7 @@ want hij gelooft aan niets meer, sedert hij met den schoolmeester van
 't dorp heeft omgegaan."
 
 "Naar den dokter gaan? Bah!" zei de tooverheks met een verachtelijk
-gebaar. "'t Baat ook wat, als de armoÃª den dokter haalt. Kan men
+gebaar. "'t Baat ook wat, als de armoê den dokter haalt. Kan men
 niet diep in de beurs tasten, dan wordt men behandeld als een hond,
 maar niet als een mensch! Hoe ging 't, toen Geertruid Kostebakken met
 den dood op de kaken lag, nadat ze reeds twee etmalen lang in arbeid
@@ -6098,7 +6134,7 @@ weg kunnen blijven, want toen hij kwam, was ze reeds dood. Naar
 den dokter gaan, als 't kind de engelsche ziekte heeft; ge kunt er
 evengoed den duivel bijroepen. Neen, God beware me", ging ze spottend
 voort, "ik houd u niet tegen--ga er gerust heen! Maar als hij u, zie
-zÃ³Ã³veel helpt--dan mag ik geen enkel mensch meer gezond maken in mijn
+zóóveel helpt--dan mag ik geen enkel mensch meer gezond maken in mijn
 leven. Och, ze weten niets van de engelsche ziekte, want daar staat
 niets van in de boeken; voor die kwaal is geen kruid gewassen, dat
 weten ze wel, en daarom geven ze er dan ook geen poeiers of drankjes
@@ -6140,7 +6176,7 @@ eenige water, dat, uren ver in den omtrek, naar 't noorden vloeit,"
 antwoordde de boerin en haalde eene goed gesloten nap te voorschijn,
 waaruit zij water schepte in eene bierkroes. Hierover legde zij eene
 snee gerstebrood, waarin met eene stopnaald een gat was gemaakt. Nadat
-het lood was gesmolten, ging GubjÃ¶r in de deur staan, zag naar de zon,
+het lood was gesmolten, ging Gubjör in de deur staan, zag naar de zon,
 nam daarop den lepel en goot het gesmolten metaal door de opening
 langzaam in het water, onder het mompelen der volgende woorden:
 
@@ -6172,14 +6208,14 @@ gesmolten metaal gevormd. De tooverheks bekeek ze lang en aandachtig;
 daarop knikte zij en sprak:
 
 "De lijkkwaal, de lijkkwaal!--eerst de nikkerkwaal, toen de
-waterkwaal, nu de lijkkwaal.--EÃ©ne van drieÃ«n ware reeds meer dan
+waterkwaal, nu de lijkkwaal.--Eéne van drieën ware reeds meer dan
 genoeg geweest," voegde zij er hoofdschuddend bij.--"Ja, nu zie ik,
 hoe 't is toegegaan," voer ze luider voort, terwijl zij zich tot
 de boerin wendde: "Eerst zijt ge door een bosch en voorbij een'
 berg gegaan, waarin de nikkers huisden; toen hebt ge den naam Jezus
 uitgesproken. Daarna moest ge eene rivier over; weer hebt ge den
 knaap beveiligd, door den naam van Jezus over hem uit te spreken;
-maar toen ge voorbij het kerkhof kwaamt, nog vÃ³Ã³r het hanengekraai,
+maar toen ge voorbij het kerkhof kwaamt, nog vóór het hanengekraai,
 hebt gij 't vergeten, en toen is het kind door de lijkkwaal bevangen."
 
 "In Jezus' naam, hoe kunt ge dat weten?" borst de boerin, bleek van
@@ -6220,12 +6256,12 @@ begraven; dan wanen de dooden, dat zij 't wicht hebben gewonnen,
 en God verhoede, dat ze ooit merken, wie hen bij den neus heeft
 gehad! Maar daarvoor heb ik zilver van doen. Hebt gij oud zilver?"
 
-"Ja, ik heb nog een paar oude zilveren munten van mijn' vader geÃ«rfd;
+"Ja, ik heb nog een paar oude zilveren munten van mijn' vader geërfd;
 nooit heb ik ze willen aanroeren, maar nu het leven van mijn kind
-er mee gemoeid is...." zei de vrouw en was reeds bezig om in de lÃ¢
+er mee gemoeid is...." zei de vrouw en was reeds bezig om in de lâ
 eener ouderwetsche kist te gaan zoeken.
 
-"EÃ©n stuk zal ik in den berg stoppen, het tweede in 't water werpen,
+"Eén stuk zal ik in den berg stoppen, het tweede in 't water werpen,
 en het derde op 't kerkhof begraven;--drie moet ik er dus hebben,"
 zei het wijf, "en dan wat oude plunje, om het kind na te bootsen."
 
@@ -6236,7 +6272,7 @@ nam een en ander mee en zeide:
 "Nu ga ik naar het kerkhof, om het te begraven. Vandaag over drie weken
 kom ik terug--dan zullen wij zien, of 't middel heeft geholpen. Blijft
 het leven, dan ziet ge uw beeld in den oogappel van uw kind, maar
-moet het sterven, eer de blÃ¢ren vallen, dan ziet gij slechts den
+moet het sterven, eer de blâren vallen, dan ziet gij slechts den
 donkeren appel en niets dan dezen. Dan ga ik naar 't noorden, naar
 Joramo. Daar ben ik sinds lang niet geweest; maar men heeft er mij
 geroepen bij een knaapje, dat de nikkerkwaal heeft: dat heeft dus
@@ -6249,14 +6285,14 @@ uit. "Joramo? dat ligt immers in Lesje? Hemel, zoo ver weg?"
 "Ja, 't is een heel eind ver; maar ik ben er geboren en getogen,"
 antwoordde de tooverheks. "Ik heb veel gezworven, maar weinig
 verworven, sedert ik van daar ben gegaan. Toen waren 't beter tijden
-voor GubjÃ¶r," zei ze met een zucht, terwijl ze zich weer op eene bank
+voor Gubjör," zei ze met een zucht, terwijl ze zich weer op eene bank
 liet vallen. "Maar daar op Joramo was wel een wisselwicht," ging ze
 voort, terwijl een verhaal uit den ouden tijd haar te binnen schoot,
 nu ze harer jonkheid gedacht.
 
 "Mijne overgrootmoeder, die op Joramo in Lesje woonde, had een
 wisselkind. Ik heb het nooit gezien, want zij was dood en 't kind
-weg, lang vÃ³Ã³r 'k werd geboren, maar vaak heeft mijne moeder het mij
+weg, lang vóór 'k werd geboren, maar vaak heeft mijne moeder het mij
 verteld. De jongen zag er uit als een verschrompelde tachtiger. Zijne
 oogen zagen zoo rood als karmijn en gloeiden in het duister als de
 oogen eener katuil. Hij had een hoofd, zoo lang als een paardekop
@@ -6279,7 +6315,7 @@ moest ze op 't vuur zetten. Zoo deed ze, en toen de jongen het zag,
 ging hij rechtop in de wieg zitten en keek er oplettend naar. De vrouw
 verliet het vertrek en keek door het sleutelgat. En de jongen kroop
 op de handen uit de wieg, maar de beenen bleven er in, en hij rekte
-zich uit en werd zÃ³Ã³ lang, dat zijn lichaam tot aan den haard reikte.
+zich uit en werd zóó lang, dat zijn lichaam tot aan den haard reikte.
 
 "Neen," zeide hij "nu heb ik al zevenmaal het hout zien vellen in het
 bosch van Lesje, maar nog nooit zag ik zoo'n grooten lepel in zoo'n
@@ -6294,14 +6330,14 @@ geknetter en geknap in 't rond van belang. Den volgenden donderdag
 ging het evenzoo, maar toen de vrouw vond, dat hij genoeg had, hoorde
 zij eene stem naast haar--de stem van haar eigen kind--zeggen:
 
-"Telkenmaal, als gij TjÃ¶stul Gautstigen slaat, krijg ik dubbel in
+"Telkenmaal, als gij Tjöstul Gautstigen slaat, krijg ik dubbel in
 den berg."
 
 "Maar den derden donderdag sneed de vrouw hem van 'tzelfde laken een
 pak. Daar kwam een oud wijf met een jongske aanvliegen, of ze uit
 den brand was gevlucht.
 
-"Geef TjÃ¶stul hier, daar hebt gij uw' jongen terug!" riep ze en wierp
+"Geef Tjöstul hier, daar hebt gij uw' jongen terug!" riep ze en wierp
 haar het kind voor de voeten. De vrouw strekte de hand uit om het
 op te vangen en greep ook het eene been. Maar van de rest heeft ze
 nooit iets gezien, zoo hard had het bergwijf het kind neergesmeten."--
@@ -6313,7 +6349,7 @@ scheen door hare eigen woorden, ze opmerkte.
 
 "Wat schort u?" vroeg ze. "O, uw man komt zeker," ging ze voort,
 terwijl ze een' blik naar de deur wierp, en besloot met nadruk:
-"'t Is niet geraden voor GubjÃ¶r dat ze uw' man in den weg loopt;
+"'t Is niet geraden voor Gubjör dat ze uw' man in den weg loopt;
 maar wees niet bezorgd, moedertje: ik zal beneden het kerkhof omgaan,
 dan ziet hij me niet."
 
@@ -6328,11 +6364,11 @@ TER ZEE.
 
 I.
 
-DE AALSCHOLVERS VAN UDRÃ–ST.
+DE AALSCHOLVERS VAN UDRÖST.
 
 Op de thuisreis gebeurt het niet zelden den Nordlandschen visschers,
 dat zij tarwestroo vinden aan het roer of gerstekorrels in de maag der
-visschen. Dan heet het, dat zij over UdrÃ¶st zijn heengevaren of over
+visschen. Dan heet het, dat zij over Udröst zijn heengevaren of over
 een ander der Hulderlanden, waarvan de sage weet te verhalen. Deze
 onderzeesche streken vertoonen zich enkel aan vrome of profetische
 visschers, die op zee zich in levensgevaar bevinden, en zij duiken
@@ -6346,9 +6382,9 @@ volledige schilderij van een eiland, in de nabijheid van Helgoland,
 "het Zand" geheeten, met vischrijke kusten en overvloed van wild. Zoo
 moet zich ook in het Westfjord van tijd tot tijd eene groote vlakte
 vertoonen, die intusschen nooit hooger komt, dan dat de aren zich even
-boven het zeevlak kunnen verheffen; en buiten RÃ¶st, aan de zuidpunt
+boven het zeevlak kunnen verheffen; en buiten Röst, aan de zuidpunt
 der Lofoten, vertelt men van een dergelijk Hulderland met groene
-heuvels en goudgele akkers: men noemt het UdrÃ¶st. De eigenaar van
+heuvels en goudgele akkers: men noemt het Udröst. De eigenaar van
 dit land heeft zijn jacht zoo goed als de andere boeren in Nordland;
 visschers en schippers ontmoeten hem somwijlen met het zeil in top,
 maar op 't oogenblik, als ze meenen dat zij tegen hem aan zullen varen,
@@ -6356,7 +6392,7 @@ is hij eensklaps verdwenen.
 
 
 
-Op Vaer-eiland, in de onmiddellijke nabijheid van RÃ¶st, woonde eens
+Op Vaer-eiland, in de onmiddellijke nabijheid van Röst, woonde eens
 een arme visscher, die Izaak heette; al wat hij bezat, was eene boot
 en een paar geiten, die zijne vrouw in het leven hield met wat afval
 van visch en het gras, dat zij op de bergen in den omtrek inzamelde;
@@ -6372,7 +6408,7 @@ Op zekeren dag, terwijl Izaak een paar mijlen ver in zee was om te
 visschen, werd de hemel eensklaps door zwarte wolken bedekt en stak
 er zulk een hevige storm op, dat hij al zijne visch over boord moest
 werpen, om de boot te verlichten en het lijf te bergen. Met inspanning
-van alle krachten stuurde hij de boot tusschen en over de stortzeeÃ«n
+van alle krachten stuurde hij de boot tusschen en over de stortzeeën
 heen, die elk oogenblik kwamen aanrollen om hem in den afgrond te
 werpen. Nadat hij zoo vijf of zes uur had gevaren, meende hij niet ver
 van de kust meer te zijn. Maar hoe hij tuurde, het land bleef weg en
@@ -6395,16 +6431,16 @@ heuvels en bergen waren groen tot den top, akkers en weiden bedekten de
 hellingen, en er stroomde een geur van bloemen en gras hem te gemoet,
 als hij nog nooit had geroken.
 
-"Goddank, nu ben ik gered; dat is UdrÃ¶st," zeide Izaak bij zich
-zelven. Vlak vÃ³Ã³r hem lag een gerstakker met aren, zÃ³Ã³ vol en zwaar,
+"Goddank, nu ben ik gered; dat is Udröst," zeide Izaak bij zich
+zelven. Vlak vóór hem lag een gerstakker met aren, zóó vol en zwaar,
 als hij ze nog nooit had gezien, en door den akker heen liep een smal
 pad den heuvel op naar een frisch groen weivlak, en op den top graasde
 eene witte geit met horens van goud en uiers zoo groot als de grootste
 koe. En aan den voet des heuvels zat een klein mannetje met een blauw
 kleed aan op een' stoel zonder rug uit een kort pijpje te rooken;
-hij had een' baard, zÃ³Ã³ lang, dat hij tot ver over de borst hing.
+hij had een' baard, zóó lang, dat hij tot ver over de borst hing.
 
-"Welkom op UdrÃ¶st, Izaak," zei het mannetje.
+"Welkom op Udröst, Izaak," zei het mannetje.
 
 "Den zegen van Boven," antwoordde Izaak. "Kent gij mij?"
 
@@ -6458,11 +6494,11 @@ water schuimend en bruisend over den achtersteven heenvloog. Zoo
 mochten ze een uur hebben gevaren, toen het weder bedaarde en ze aan
 het visschen konden gaan. En zooveel visch vonden ze, dat de bodem
 der zee er geheel door bedekt was en de loodjes der vischnetten op de
-bergen van visch bleven liggen. De jongelingen van UdrÃ¶st haalden slag
+bergen van visch bleven liggen. De jongelingen van Udröst haalden slag
 op slag een net vol op; maar Izaak, schoon hij zijn handwerk verstond
 als de beste, kreeg geen graatje; telkens als hij zijne netten--'t was
 zijn eigen tuig--ophaalde, waren de visschen verdwenen. Toen ze de boot
-vol hadden, keerden ze naar UdrÃ¶st terug; de jongelingen hingen hun'
+vol hadden, keerden ze naar Udröst terug; de jongelingen hingen hun'
 buit in 't drooghuis op, maar Izaak beklaagde zich bij den ouden man,
 dat het zoo slecht met zijne vangst was gegaan.
 
@@ -6478,13 +6514,13 @@ en de oude zeide, dat hij maar terug moest komen, als het jacht onder
 zeil ging; het zou een reisje maken naar Bergen, en dan kon Izaak
 meegaan en zelf zijne visch verkoopen. Nu, dat wou Izaak graag doen;
 daarom vroeg hij, welken koers hij moest houden, als hij weer naar
-UdrÃ¶st wilde komen. "Volg den aalscholver, wanneer hij zeewaarts
-vliegt, dan zeilt ge vlak op UdrÃ¶st aan," zei de oude. "Goede reis!"
+Udröst wilde komen. "Volg den aalscholver, wanneer hij zeewaarts
+vliegt, dan zeilt ge vlak op Udröst aan," zei de oude. "Goede reis!"
 
 Maar toen Izaak in de boot was geklommen en eens omkeek, zag hij
-niets meer van UdrÃ¶st; wijd en zijd was niets te bespeuren dan de zee.
+niets meer van Udröst; wijd en zijd was niets te bespeuren dan de zee.
 
-Toen de bepaalde tijd om was, voer Izaak op nieuw naar UdrÃ¶st, om
+Toen de bepaalde tijd om was, voer Izaak op nieuw naar Udröst, om
 met het jacht naar Bergen te gaan. Maar zulk een jacht had men nooit
 gezien: 't was zoo lang, dat de stuurman, die op den uitkijk stond aan
 den voorsteven, onmogelijk den kerel te roer kon beroepen; daarom had
@@ -6505,12 +6541,12 @@ zou vergeten, want de buurman zelf was gestorven, naar hij zeide,
 en hij spelde Izaak zegen en voorspoed met het jacht.
 
 "Al wat in den wind staat, is goed en zal 't wel uithouden," zeide hij,
-en daarmede bedoelde hij, dat er Ã©Ã©n aan boord was, dien niemand zag,
+en daarmede bedoelde hij, dat er één aan boord was, dien niemand zag,
 maar die met den rug de mast steunde in storm en noodweer. Sinds dien
 tijd was 't geluk altijd met Izaak. Hij wist wel waar dit vandaan kwam
 en vergat nimmer wat af te zonderen voor hem, die de wacht hield, als
 hij in 't najaar met het jacht was thuis gekomen. En elken kerstavond
-zag men licht in het schip, en werd er de veÃªl gestreken en gedanst
+zag men licht in het schip, en werd er de veêl gestreken en gedanst
 en hoorde men gelach en gescherts in het ruim van het jacht.
 
 
@@ -6587,7 +6623,7 @@ maakte de proviandkist open; "een dwaas, die den moed laat zakken,
 zoo lang hij nog wat te bikken heeft." Maar de avond kwam en Hans
 bleef weg, en Luk-Andries wachtte vergeefs dag aan dag en week aan
 week. Eindelijk begon hij te vermoeden, dat Hans hem opzettelijk
-had achtergelaten, om zich zijn erfdeel te kunnen toeÃ«igenen. En zoo
+had achtergelaten, om zich zijn erfdeel te kunnen toeëigenen. En zoo
 was 't; want toen Hans Nikolai dicht bij huis was gekomen, wist hij
 't zoo aan te leggen, dat de boot omsloeg, en hij vertelde nu, dat
 Luk-Andries verdronken was.
@@ -6620,7 +6656,7 @@ ijzerdraad waren gemaakt, en zoo was 't al pracht en heerlijkheid,
 wat men er aan zag. Het dek stond vol mannetjes en vrouwtjes, met
 blauwe kleeren aan, en aan het roer zag hij eene vrouw, zoo sierlijk
 uitgedost als eene bruid of eene koningin; ze droeg eene kroon op
-het hoofd en had de kostelijkste kleederen aan. Maar Ã©Ã©n ding zag
+het hoofd en had de kostelijkste kleederen aan. Maar één ding zag
 Andries duidelijk: dat zij een mensch was; want zij was veel grooter
 en ook veel mooier dan de nikkers; ja, Luk-Andries vond haar mooier
 dan alle meisjes, die hij van zijn leven had gezien. 't Jacht zeilde
@@ -6630,7 +6666,7 @@ kroop boven in het drooghuis, en wist zich hier zoo te verschuilen,
 dat niemand hem kon bemerken, terwijl hij alles kon waarnemen, wat
 er voorviel. Weldra was het gansche vertrek gevuld; maar de stroom
 van bezoekers ging nog altijd voort. Nu begonnen de wanden te kraken,
-en de hut zette zich uit, en alles begon er van binnen zÃ³Ã³ prachtig
+en de hut zette zich uit, en alles begon er van binnen zóó prachtig
 uit te zien, of men bij den rijksten koopman in huis komt; 't was er
 haast zoo mooi, als in het slot van een' koning. Daar werden tafels
 aangericht met de kostelijkste spijzen, en borden en schotels, alles
@@ -6646,7 +6682,7 @@ haar in den kring wilde voeren, stiet ze hem van zich. Maar overigens
 ontbrak er niets; de speelman hield niet op, om den vedel te stemmen
 of zoo iets, maar speelde onafgebroken voort en trapte de maat met den
 voet, tot het zweet hem langs het gelaat gudste en hij door stof en
-rook zijn eigen veÃªl niet meer kon zien. Toen Andries voelde, dat ook
+rook zijn eigen veêl niet meer kon zien. Toen Andries voelde, dat ook
 hij de voeten niet meer stil kon houden, zeide hij bij zich zelven:
 "Nu dien ik los te branden, anders speelt hij mij ook nog van den
 grond." Daarop stak hij het geweer door een vensterraam en schoot het
@@ -6717,7 +6753,7 @@ begon te kraaien, waren ze verdwenen, en nu raakte Hans ook los. Toen
 hij van zijn reisje thuis kwam was hij zinneloos geworden, en sinds
 dien tijd hoorden de menschen hem vaak op zolders of in schuren, waar
 hij zich alleen bevond, dezelfde akelige, huiveringwekkende kreten
-slaken, die men in Nordland aan de nikkers toeschrijft. VÃ³Ã³r zijn'
+slaken, die men in Nordland aan de nikkers toeschrijft. Vóór zijn'
 dood kreeg hij nogtans het verstand terug en, naar men zegt, werd
 hij ook in gewijden grond begraven. Maar na Hans heeft niemand weer
 een' voet gezet op 't Zand. Het zonk weg in de diepte, en de nikkers
@@ -6757,6 +6793,369 @@ die tegen den wind in worden opgezet, om de rendieren terug te drijven.
 
 
 End of the Project Gutenberg EBook of Noorsche Volksvertellingen, by 
-Peter Christen AsbjÃ¸rnsen
+Peter Christen Asbjørnsen
 
-*** END OF THE PROJECT GUTENBERG EBOOK 51763 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK NOORSCHE VOLKSVERTELLINGEN ***
+
+***** This file should be named 51763-8.txt or 51763-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/7/6/51763/
+
+Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg (This file was produced from images generously
+made available by The Norwegian National Library.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
